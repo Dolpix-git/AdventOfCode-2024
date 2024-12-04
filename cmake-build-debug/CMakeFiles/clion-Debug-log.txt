@@ -1,0 +1,4 @@
+C:\Users\KieranVelez\AppData\Local\Programs\CLion\bin\cmake\win\x64\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=C:/Users/KieranVelez/AppData/Local/Programs/CLion/bin/ninja/win/x64/ninja.exe -G Ninja -S C:\Users\KieranVelez\CLionProjects\AdventOfCode-2024 -B C:\Users\KieranVelez\CLionProjects\AdventOfCode-2024\cmake-build-debug
+-- Configuring done (0.5s)
+-- Generating done (0.0s)
+-- Build files have been written to: C:/Users/KieranVelez/CLionProjects/AdventOfCode-2024/cmake-build-debug

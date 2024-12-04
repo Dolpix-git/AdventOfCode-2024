@@ -1,0 +1,8 @@
+# ninja log v6
+4	522	7550160053833690	CMakeFiles/untitled.dir/main.cpp.obj	a255e77d77a5f79c
+609	736	7550227273855004	untitled.exe	80cd41045798b587
+16	739	7550144730818465	CMakeFiles/untitled.dir/Days/Day.cpp.obj	7d315bd4408dce3
+4	609	7550227267799716	CMakeFiles/untitled.dir/Days/DayOne.cpp.obj	569e80c7b2424914
+11	1102	7550236412855158	CMakeFiles/untitled.dir/Days/DayOnePartOne.cpp.obj	ecd16dcf54bf2098
+23	1105	7550236412975180	CMakeFiles/untitled.dir/Days/DayOnePartTwo.cpp.obj	1b92b541ae0acc90
+1105	1645	7550236423794948	untitled.exe	40a3686983b897d9
