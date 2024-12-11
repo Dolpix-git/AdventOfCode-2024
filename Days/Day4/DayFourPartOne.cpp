@@ -3,3 +3,7 @@
 //
 
 #include "DayFourPartOne.hpp"
+
+void DayFourPartOne::Execute() {
+
+}
