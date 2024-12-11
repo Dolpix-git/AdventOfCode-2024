@@ -19,6 +19,8 @@ set(CMAKE_DEPENDS_DEPENDENCY_FILES
   "C:/Users/Dolpix/Desktop/AdventOfCode-2024/Days/Day4/DayFourPartTwo.cpp" "CMakeFiles/untitled.dir/Days/Day4/DayFourPartTwo.cpp.obj" "gcc" "CMakeFiles/untitled.dir/Days/Day4/DayFourPartTwo.cpp.obj.d"
   "C:/Users/Dolpix/Desktop/AdventOfCode-2024/Days/Day5/DayFivePartOne.cpp" "CMakeFiles/untitled.dir/Days/Day5/DayFivePartOne.cpp.obj" "gcc" "CMakeFiles/untitled.dir/Days/Day5/DayFivePartOne.cpp.obj.d"
   "C:/Users/Dolpix/Desktop/AdventOfCode-2024/Days/Day5/DayFivePartTwo.cpp" "CMakeFiles/untitled.dir/Days/Day5/DayFivePartTwo.cpp.obj" "gcc" "CMakeFiles/untitled.dir/Days/Day5/DayFivePartTwo.cpp.obj.d"
+  "C:/Users/Dolpix/Desktop/AdventOfCode-2024/Days/Day6/DaySixPartOne.cpp" "CMakeFiles/untitled.dir/Days/Day6/DaySixPartOne.cpp.obj" "gcc" "CMakeFiles/untitled.dir/Days/Day6/DaySixPartOne.cpp.obj.d"
+  "C:/Users/Dolpix/Desktop/AdventOfCode-2024/Days/Day6/DaySixPartTwo.cpp" "CMakeFiles/untitled.dir/Days/Day6/DaySixPartTwo.cpp.obj" "gcc" "CMakeFiles/untitled.dir/Days/Day6/DaySixPartTwo.cpp.obj.d"
   "C:/Users/Dolpix/Desktop/AdventOfCode-2024/main.cpp" "CMakeFiles/untitled.dir/main.cpp.obj" "gcc" "CMakeFiles/untitled.dir/main.cpp.obj.d"
   )
 

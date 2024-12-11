@@ -392,6 +392,54 @@ Days/Day5/DayFivePartTwo.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Days/Day5/DayFivePartTwo.cpp.s
 .PHONY : Days/Day5/DayFivePartTwo.cpp.s
 
+Days/Day6/DaySixPartOne.obj: Days/Day6/DaySixPartOne.cpp.obj
+.PHONY : Days/Day6/DaySixPartOne.obj
+
+# target to build an object file
+Days/Day6/DaySixPartOne.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Days/Day6/DaySixPartOne.cpp.obj
+.PHONY : Days/Day6/DaySixPartOne.cpp.obj
+
+Days/Day6/DaySixPartOne.i: Days/Day6/DaySixPartOne.cpp.i
+.PHONY : Days/Day6/DaySixPartOne.i
+
+# target to preprocess a source file
+Days/Day6/DaySixPartOne.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Days/Day6/DaySixPartOne.cpp.i
+.PHONY : Days/Day6/DaySixPartOne.cpp.i
+
+Days/Day6/DaySixPartOne.s: Days/Day6/DaySixPartOne.cpp.s
+.PHONY : Days/Day6/DaySixPartOne.s
+
+# target to generate assembly for a file
+Days/Day6/DaySixPartOne.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Days/Day6/DaySixPartOne.cpp.s
+.PHONY : Days/Day6/DaySixPartOne.cpp.s
+
+Days/Day6/DaySixPartTwo.obj: Days/Day6/DaySixPartTwo.cpp.obj
+.PHONY : Days/Day6/DaySixPartTwo.obj
+
+# target to build an object file
+Days/Day6/DaySixPartTwo.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Days/Day6/DaySixPartTwo.cpp.obj
+.PHONY : Days/Day6/DaySixPartTwo.cpp.obj
+
+Days/Day6/DaySixPartTwo.i: Days/Day6/DaySixPartTwo.cpp.i
+.PHONY : Days/Day6/DaySixPartTwo.i
+
+# target to preprocess a source file
+Days/Day6/DaySixPartTwo.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Days/Day6/DaySixPartTwo.cpp.i
+.PHONY : Days/Day6/DaySixPartTwo.cpp.i
+
+Days/Day6/DaySixPartTwo.s: Days/Day6/DaySixPartTwo.cpp.s
+.PHONY : Days/Day6/DaySixPartTwo.s
+
+# target to generate assembly for a file
+Days/Day6/DaySixPartTwo.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Days/Day6/DaySixPartTwo.cpp.s
+.PHONY : Days/Day6/DaySixPartTwo.cpp.s
+
 main.obj: main.cpp.obj
 .PHONY : main.obj
 
@@ -458,6 +506,12 @@ help:
 	@echo ... Days/Day5/DayFivePartTwo.obj
 	@echo ... Days/Day5/DayFivePartTwo.i
 	@echo ... Days/Day5/DayFivePartTwo.s
+	@echo ... Days/Day6/DaySixPartOne.obj
+	@echo ... Days/Day6/DaySixPartOne.i
+	@echo ... Days/Day6/DaySixPartOne.s
+	@echo ... Days/Day6/DaySixPartTwo.obj
+	@echo ... Days/Day6/DaySixPartTwo.i
+	@echo ... Days/Day6/DaySixPartTwo.s
 	@echo ... main.obj
 	@echo ... main.i
 	@echo ... main.s
