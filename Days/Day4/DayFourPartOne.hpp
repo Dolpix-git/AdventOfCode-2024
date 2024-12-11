@@ -11,6 +11,8 @@
 class DayFourPartOne : public Day{
 public:
     void Execute() override;
+private:
+    static bool SearchWord(const std::vector<std::string>& grid, int row, int col, int dirRow, int dirCol, const std::string& word);
 };
 
 static const bool dayFourPartTwoRegistered = [] {
