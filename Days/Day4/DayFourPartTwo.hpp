@@ -8,14 +8,19 @@
 #include "../Day.h"
 #include <vector>
 
-class DayFourPartTwo : public Day{
+class DayFourPartTwo : public Day
+{
 public:
-    void Execute() override;
+	void Execute() override;
+private:
+	static bool IsXmas(const std::vector<std::string>& grid, int row, int col);
 };
 
-static const bool dayFourPartTwoRegistered = [] {
-    Day::Register("Day4 Part2", []() { return std::make_unique<DayFourPartTwo>(); });
-    return true;
+static const bool dayFourPartTwoRegistered = []
+{
+	Day::Register("Day4 Part2", []()
+	{ return std::make_unique<DayFourPartTwo>(); });
+	return true;
 }();
 
 #endif //UNTITLED_DAYFOURPARTTWO_HPP
