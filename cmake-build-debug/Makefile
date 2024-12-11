@@ -296,6 +296,54 @@ Days/Day3/DayThreePartTwo.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Days/Day3/DayThreePartTwo.cpp.s
 .PHONY : Days/Day3/DayThreePartTwo.cpp.s
 
+Days/Day4/DayFourPartOne.obj: Days/Day4/DayFourPartOne.cpp.obj
+.PHONY : Days/Day4/DayFourPartOne.obj
+
+# target to build an object file
+Days/Day4/DayFourPartOne.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Days/Day4/DayFourPartOne.cpp.obj
+.PHONY : Days/Day4/DayFourPartOne.cpp.obj
+
+Days/Day4/DayFourPartOne.i: Days/Day4/DayFourPartOne.cpp.i
+.PHONY : Days/Day4/DayFourPartOne.i
+
+# target to preprocess a source file
+Days/Day4/DayFourPartOne.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Days/Day4/DayFourPartOne.cpp.i
+.PHONY : Days/Day4/DayFourPartOne.cpp.i
+
+Days/Day4/DayFourPartOne.s: Days/Day4/DayFourPartOne.cpp.s
+.PHONY : Days/Day4/DayFourPartOne.s
+
+# target to generate assembly for a file
+Days/Day4/DayFourPartOne.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Days/Day4/DayFourPartOne.cpp.s
+.PHONY : Days/Day4/DayFourPartOne.cpp.s
+
+Days/Day4/DayFourPartTwo.obj: Days/Day4/DayFourPartTwo.cpp.obj
+.PHONY : Days/Day4/DayFourPartTwo.obj
+
+# target to build an object file
+Days/Day4/DayFourPartTwo.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Days/Day4/DayFourPartTwo.cpp.obj
+.PHONY : Days/Day4/DayFourPartTwo.cpp.obj
+
+Days/Day4/DayFourPartTwo.i: Days/Day4/DayFourPartTwo.cpp.i
+.PHONY : Days/Day4/DayFourPartTwo.i
+
+# target to preprocess a source file
+Days/Day4/DayFourPartTwo.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Days/Day4/DayFourPartTwo.cpp.i
+.PHONY : Days/Day4/DayFourPartTwo.cpp.i
+
+Days/Day4/DayFourPartTwo.s: Days/Day4/DayFourPartTwo.cpp.s
+.PHONY : Days/Day4/DayFourPartTwo.s
+
+# target to generate assembly for a file
+Days/Day4/DayFourPartTwo.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Days/Day4/DayFourPartTwo.cpp.s
+.PHONY : Days/Day4/DayFourPartTwo.cpp.s
+
 main.obj: main.cpp.obj
 .PHONY : main.obj
 
@@ -350,6 +398,12 @@ help:
 	@echo ... Days/Day3/DayThreePartTwo.obj
 	@echo ... Days/Day3/DayThreePartTwo.i
 	@echo ... Days/Day3/DayThreePartTwo.s
+	@echo ... Days/Day4/DayFourPartOne.obj
+	@echo ... Days/Day4/DayFourPartOne.i
+	@echo ... Days/Day4/DayFourPartOne.s
+	@echo ... Days/Day4/DayFourPartTwo.obj
+	@echo ... Days/Day4/DayFourPartTwo.i
+	@echo ... Days/Day4/DayFourPartTwo.s
 	@echo ... main.obj
 	@echo ... main.i
 	@echo ... main.s

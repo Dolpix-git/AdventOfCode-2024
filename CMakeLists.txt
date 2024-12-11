@@ -19,4 +19,8 @@ add_executable(
         Days/Day3/DayThreePartOne.hpp
         Days/Day3/DayThreePartTwo.cpp
         Days/Day3/DayThreePartTwo.hpp
+        Days/Day4/DayFourPartOne.cpp
+        Days/Day4/DayFourPartOne.hpp
+        Days/Day4/DayFourPartTwo.cpp
+        Days/Day4/DayFourPartTwo.hpp
 )
