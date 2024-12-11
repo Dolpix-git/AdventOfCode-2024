@@ -4,7 +4,7 @@
 
 #ifndef DAYONEPARTTWO_H
 #define DAYONEPARTTWO_H
-#include "Day.h"
+#include "../Day.h"
 
 
 class DayOnePartTwo : public Day {

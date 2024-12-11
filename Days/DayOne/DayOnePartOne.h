@@ -4,7 +4,8 @@
 
 #ifndef DAYONE_H
 #define DAYONE_H
-#include "Day.h"
+
+#include "../Day.h"
 
 
 class DayOnePartOne : public Day {
@@ -16,7 +17,6 @@ static const bool dayOneRegistered = [] {
     Day::Register("Day1 Part1", []() { return std::make_unique<DayOnePartOne>(); });
     return true;
 }();
-
 
 
 #endif //DAYONE_H

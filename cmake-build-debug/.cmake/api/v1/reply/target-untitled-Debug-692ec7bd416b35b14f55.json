@@ -55,7 +55,9 @@
 				0,
 				2,
 				3,
-				5
+				5,
+				7,
+				9
 			]
 		}
 	],
@@ -95,7 +97,9 @@
 				0,
 				2,
 				3,
-				5
+				5,
+				7,
+				9
 			]
 		},
 		{
@@ -104,7 +108,9 @@
 			[
 				1,
 				4,
-				6
+				6,
+				8,
+				10
 			]
 		}
 	],
@@ -130,23 +136,45 @@
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "Days/DayOnePartOne.cpp",
+			"path" : "Days/DayOne/DayOnePartOne.cpp",
 			"sourceGroupIndex" : 0
 		},
 		{
 			"backtrace" : 1,
-			"path" : "Days/DayOnePartOne.h",
+			"path" : "Days/DayOne/DayOnePartOne.h",
 			"sourceGroupIndex" : 1
 		},
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "Days/DayOnePartTwo.cpp",
+			"path" : "Days/DayOne/DayOnePartTwo.cpp",
 			"sourceGroupIndex" : 0
 		},
 		{
 			"backtrace" : 1,
-			"path" : "Days/DayOnePartTwo.h",
+			"path" : "Days/DayOne/DayOnePartTwo.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "Days/DayTwo/DayTwoPartOne.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "Days/DayTwo/DayTwoPartOne.hpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "Days/DayTwo/DayTwoPartTwo.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "Days/DayTwo/DayTwoPartTwo.hpp",
 			"sourceGroupIndex" : 1
 		}
 	],
