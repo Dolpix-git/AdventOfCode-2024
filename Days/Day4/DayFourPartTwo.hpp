@@ -14,6 +14,7 @@ public:
 	void Execute() override;
 private:
 	static bool IsXmas(const std::vector<std::string>& grid, int row, int col);
+	static void logGrid(const std::vector<std::string>& grid, int row, int col);
 };
 
 static const bool dayFourPartTwoRegistered = []

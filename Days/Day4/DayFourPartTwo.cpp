@@ -37,9 +37,9 @@ void DayFourPartTwo::Execute()
 	std::cout << "Total X-MAS rows: " << rows << std::endl;
 	std::cout << "Total X-MAS cols: " << cols << std::endl;
 
-	for (int row = 0; row < rows; row++)
+	for (int row = 0; row <= rows; row++)
 	{
-		for (int col = 0; col < cols; col++)
+		for (int col = 0; col <= cols; col++)
 		{
 			xmasCount += IsXmas(grid, row, col);
 		}
@@ -80,6 +80,29 @@ bool DayFourPartTwo::IsXmas(const std::vector<std::string>& grid, int row, int c
 		grid[row - 1][col + 1] == 'M'
 	);
 
-	return (topLeftToBottomRight && bottomLeftToTopRight) ||
-		   (topLeftToBottomRightReversed && bottomLeftToTopRightReversed);
+	return (
+			   topLeftToBottomRight +
+			   bottomLeftToTopRight +
+			   topLeftToBottomRightReversed +
+			   bottomLeftToTopRightReversed
+		   ) >= 2;
+}
+void DayFourPartTwo::logGrid(const std::vector<std::string>& grid, int row, int col)
+{
+	std::cout << "3x3 Grid:\n";
+	for (int i = row - 1; i <= row + 1; ++i)
+	{
+		for (int j = col - 1; j <= col + 1; ++j)
+		{
+			if (i >= 0 && i < grid.size() && j >= 0 && j < grid[0].size())
+			{
+				std::cout << grid[i][j] << " ";
+			}
+			else
+			{
+				std::cout << ". ";
+			}
+		}
+		std::cout << "\n";
+	}
 }
