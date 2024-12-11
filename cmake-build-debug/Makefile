@@ -200,6 +200,486 @@ Days/Day1/DayOnePartTwo.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Days/Day1/DayOnePartTwo.cpp.s
 .PHONY : Days/Day1/DayOnePartTwo.cpp.s
 
+Days/Day10/DayTenPartOne.obj: Days/Day10/DayTenPartOne.cpp.obj
+.PHONY : Days/Day10/DayTenPartOne.obj
+
+# target to build an object file
+Days/Day10/DayTenPartOne.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Days/Day10/DayTenPartOne.cpp.obj
+.PHONY : Days/Day10/DayTenPartOne.cpp.obj
+
+Days/Day10/DayTenPartOne.i: Days/Day10/DayTenPartOne.cpp.i
+.PHONY : Days/Day10/DayTenPartOne.i
+
+# target to preprocess a source file
+Days/Day10/DayTenPartOne.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Days/Day10/DayTenPartOne.cpp.i
+.PHONY : Days/Day10/DayTenPartOne.cpp.i
+
+Days/Day10/DayTenPartOne.s: Days/Day10/DayTenPartOne.cpp.s
+.PHONY : Days/Day10/DayTenPartOne.s
+
+# target to generate assembly for a file
+Days/Day10/DayTenPartOne.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Days/Day10/DayTenPartOne.cpp.s
+.PHONY : Days/Day10/DayTenPartOne.cpp.s
+
+Days/Day10/DayTenPartTwo.obj: Days/Day10/DayTenPartTwo.cpp.obj
+.PHONY : Days/Day10/DayTenPartTwo.obj
+
+# target to build an object file
+Days/Day10/DayTenPartTwo.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Days/Day10/DayTenPartTwo.cpp.obj
+.PHONY : Days/Day10/DayTenPartTwo.cpp.obj
+
+Days/Day10/DayTenPartTwo.i: Days/Day10/DayTenPartTwo.cpp.i
+.PHONY : Days/Day10/DayTenPartTwo.i
+
+# target to preprocess a source file
+Days/Day10/DayTenPartTwo.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Days/Day10/DayTenPartTwo.cpp.i
+.PHONY : Days/Day10/DayTenPartTwo.cpp.i
+
+Days/Day10/DayTenPartTwo.s: Days/Day10/DayTenPartTwo.cpp.s
+.PHONY : Days/Day10/DayTenPartTwo.s
+
+# target to generate assembly for a file
+Days/Day10/DayTenPartTwo.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Days/Day10/DayTenPartTwo.cpp.s
+.PHONY : Days/Day10/DayTenPartTwo.cpp.s
+
+Days/Day11/DayElevenPartOne.obj: Days/Day11/DayElevenPartOne.cpp.obj
+.PHONY : Days/Day11/DayElevenPartOne.obj
+
+# target to build an object file
+Days/Day11/DayElevenPartOne.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Days/Day11/DayElevenPartOne.cpp.obj
+.PHONY : Days/Day11/DayElevenPartOne.cpp.obj
+
+Days/Day11/DayElevenPartOne.i: Days/Day11/DayElevenPartOne.cpp.i
+.PHONY : Days/Day11/DayElevenPartOne.i
+
+# target to preprocess a source file
+Days/Day11/DayElevenPartOne.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Days/Day11/DayElevenPartOne.cpp.i
+.PHONY : Days/Day11/DayElevenPartOne.cpp.i
+
+Days/Day11/DayElevenPartOne.s: Days/Day11/DayElevenPartOne.cpp.s
+.PHONY : Days/Day11/DayElevenPartOne.s
+
+# target to generate assembly for a file
+Days/Day11/DayElevenPartOne.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Days/Day11/DayElevenPartOne.cpp.s
+.PHONY : Days/Day11/DayElevenPartOne.cpp.s
+
+Days/Day11/DayElevenPartTwo.obj: Days/Day11/DayElevenPartTwo.cpp.obj
+.PHONY : Days/Day11/DayElevenPartTwo.obj
+
+# target to build an object file
+Days/Day11/DayElevenPartTwo.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Days/Day11/DayElevenPartTwo.cpp.obj
+.PHONY : Days/Day11/DayElevenPartTwo.cpp.obj
+
+Days/Day11/DayElevenPartTwo.i: Days/Day11/DayElevenPartTwo.cpp.i
+.PHONY : Days/Day11/DayElevenPartTwo.i
+
+# target to preprocess a source file
+Days/Day11/DayElevenPartTwo.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Days/Day11/DayElevenPartTwo.cpp.i
+.PHONY : Days/Day11/DayElevenPartTwo.cpp.i
+
+Days/Day11/DayElevenPartTwo.s: Days/Day11/DayElevenPartTwo.cpp.s
+.PHONY : Days/Day11/DayElevenPartTwo.s
+
+# target to generate assembly for a file
+Days/Day11/DayElevenPartTwo.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Days/Day11/DayElevenPartTwo.cpp.s
+.PHONY : Days/Day11/DayElevenPartTwo.cpp.s
+
+Days/Day12/DayTwelvePartOne.obj: Days/Day12/DayTwelvePartOne.cpp.obj
+.PHONY : Days/Day12/DayTwelvePartOne.obj
+
+# target to build an object file
+Days/Day12/DayTwelvePartOne.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Days/Day12/DayTwelvePartOne.cpp.obj
+.PHONY : Days/Day12/DayTwelvePartOne.cpp.obj
+
+Days/Day12/DayTwelvePartOne.i: Days/Day12/DayTwelvePartOne.cpp.i
+.PHONY : Days/Day12/DayTwelvePartOne.i
+
+# target to preprocess a source file
+Days/Day12/DayTwelvePartOne.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Days/Day12/DayTwelvePartOne.cpp.i
+.PHONY : Days/Day12/DayTwelvePartOne.cpp.i
+
+Days/Day12/DayTwelvePartOne.s: Days/Day12/DayTwelvePartOne.cpp.s
+.PHONY : Days/Day12/DayTwelvePartOne.s
+
+# target to generate assembly for a file
+Days/Day12/DayTwelvePartOne.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Days/Day12/DayTwelvePartOne.cpp.s
+.PHONY : Days/Day12/DayTwelvePartOne.cpp.s
+
+Days/Day12/DayTwelvePartTwo.obj: Days/Day12/DayTwelvePartTwo.cpp.obj
+.PHONY : Days/Day12/DayTwelvePartTwo.obj
+
+# target to build an object file
+Days/Day12/DayTwelvePartTwo.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Days/Day12/DayTwelvePartTwo.cpp.obj
+.PHONY : Days/Day12/DayTwelvePartTwo.cpp.obj
+
+Days/Day12/DayTwelvePartTwo.i: Days/Day12/DayTwelvePartTwo.cpp.i
+.PHONY : Days/Day12/DayTwelvePartTwo.i
+
+# target to preprocess a source file
+Days/Day12/DayTwelvePartTwo.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Days/Day12/DayTwelvePartTwo.cpp.i
+.PHONY : Days/Day12/DayTwelvePartTwo.cpp.i
+
+Days/Day12/DayTwelvePartTwo.s: Days/Day12/DayTwelvePartTwo.cpp.s
+.PHONY : Days/Day12/DayTwelvePartTwo.s
+
+# target to generate assembly for a file
+Days/Day12/DayTwelvePartTwo.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Days/Day12/DayTwelvePartTwo.cpp.s
+.PHONY : Days/Day12/DayTwelvePartTwo.cpp.s
+
+Days/Day13/DayThirteenPartOne.obj: Days/Day13/DayThirteenPartOne.cpp.obj
+.PHONY : Days/Day13/DayThirteenPartOne.obj
+
+# target to build an object file
+Days/Day13/DayThirteenPartOne.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Days/Day13/DayThirteenPartOne.cpp.obj
+.PHONY : Days/Day13/DayThirteenPartOne.cpp.obj
+
+Days/Day13/DayThirteenPartOne.i: Days/Day13/DayThirteenPartOne.cpp.i
+.PHONY : Days/Day13/DayThirteenPartOne.i
+
+# target to preprocess a source file
+Days/Day13/DayThirteenPartOne.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Days/Day13/DayThirteenPartOne.cpp.i
+.PHONY : Days/Day13/DayThirteenPartOne.cpp.i
+
+Days/Day13/DayThirteenPartOne.s: Days/Day13/DayThirteenPartOne.cpp.s
+.PHONY : Days/Day13/DayThirteenPartOne.s
+
+# target to generate assembly for a file
+Days/Day13/DayThirteenPartOne.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Days/Day13/DayThirteenPartOne.cpp.s
+.PHONY : Days/Day13/DayThirteenPartOne.cpp.s
+
+Days/Day13/DayThirteenPartTwo.obj: Days/Day13/DayThirteenPartTwo.cpp.obj
+.PHONY : Days/Day13/DayThirteenPartTwo.obj
+
+# target to build an object file
+Days/Day13/DayThirteenPartTwo.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Days/Day13/DayThirteenPartTwo.cpp.obj
+.PHONY : Days/Day13/DayThirteenPartTwo.cpp.obj
+
+Days/Day13/DayThirteenPartTwo.i: Days/Day13/DayThirteenPartTwo.cpp.i
+.PHONY : Days/Day13/DayThirteenPartTwo.i
+
+# target to preprocess a source file
+Days/Day13/DayThirteenPartTwo.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Days/Day13/DayThirteenPartTwo.cpp.i
+.PHONY : Days/Day13/DayThirteenPartTwo.cpp.i
+
+Days/Day13/DayThirteenPartTwo.s: Days/Day13/DayThirteenPartTwo.cpp.s
+.PHONY : Days/Day13/DayThirteenPartTwo.s
+
+# target to generate assembly for a file
+Days/Day13/DayThirteenPartTwo.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Days/Day13/DayThirteenPartTwo.cpp.s
+.PHONY : Days/Day13/DayThirteenPartTwo.cpp.s
+
+Days/Day14/DayFourteenPartOne.obj: Days/Day14/DayFourteenPartOne.cpp.obj
+.PHONY : Days/Day14/DayFourteenPartOne.obj
+
+# target to build an object file
+Days/Day14/DayFourteenPartOne.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Days/Day14/DayFourteenPartOne.cpp.obj
+.PHONY : Days/Day14/DayFourteenPartOne.cpp.obj
+
+Days/Day14/DayFourteenPartOne.i: Days/Day14/DayFourteenPartOne.cpp.i
+.PHONY : Days/Day14/DayFourteenPartOne.i
+
+# target to preprocess a source file
+Days/Day14/DayFourteenPartOne.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Days/Day14/DayFourteenPartOne.cpp.i
+.PHONY : Days/Day14/DayFourteenPartOne.cpp.i
+
+Days/Day14/DayFourteenPartOne.s: Days/Day14/DayFourteenPartOne.cpp.s
+.PHONY : Days/Day14/DayFourteenPartOne.s
+
+# target to generate assembly for a file
+Days/Day14/DayFourteenPartOne.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Days/Day14/DayFourteenPartOne.cpp.s
+.PHONY : Days/Day14/DayFourteenPartOne.cpp.s
+
+Days/Day14/DayFourteenPartTwo.obj: Days/Day14/DayFourteenPartTwo.cpp.obj
+.PHONY : Days/Day14/DayFourteenPartTwo.obj
+
+# target to build an object file
+Days/Day14/DayFourteenPartTwo.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Days/Day14/DayFourteenPartTwo.cpp.obj
+.PHONY : Days/Day14/DayFourteenPartTwo.cpp.obj
+
+Days/Day14/DayFourteenPartTwo.i: Days/Day14/DayFourteenPartTwo.cpp.i
+.PHONY : Days/Day14/DayFourteenPartTwo.i
+
+# target to preprocess a source file
+Days/Day14/DayFourteenPartTwo.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Days/Day14/DayFourteenPartTwo.cpp.i
+.PHONY : Days/Day14/DayFourteenPartTwo.cpp.i
+
+Days/Day14/DayFourteenPartTwo.s: Days/Day14/DayFourteenPartTwo.cpp.s
+.PHONY : Days/Day14/DayFourteenPartTwo.s
+
+# target to generate assembly for a file
+Days/Day14/DayFourteenPartTwo.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Days/Day14/DayFourteenPartTwo.cpp.s
+.PHONY : Days/Day14/DayFourteenPartTwo.cpp.s
+
+Days/Day15/DayFifteenPartOne.obj: Days/Day15/DayFifteenPartOne.cpp.obj
+.PHONY : Days/Day15/DayFifteenPartOne.obj
+
+# target to build an object file
+Days/Day15/DayFifteenPartOne.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Days/Day15/DayFifteenPartOne.cpp.obj
+.PHONY : Days/Day15/DayFifteenPartOne.cpp.obj
+
+Days/Day15/DayFifteenPartOne.i: Days/Day15/DayFifteenPartOne.cpp.i
+.PHONY : Days/Day15/DayFifteenPartOne.i
+
+# target to preprocess a source file
+Days/Day15/DayFifteenPartOne.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Days/Day15/DayFifteenPartOne.cpp.i
+.PHONY : Days/Day15/DayFifteenPartOne.cpp.i
+
+Days/Day15/DayFifteenPartOne.s: Days/Day15/DayFifteenPartOne.cpp.s
+.PHONY : Days/Day15/DayFifteenPartOne.s
+
+# target to generate assembly for a file
+Days/Day15/DayFifteenPartOne.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Days/Day15/DayFifteenPartOne.cpp.s
+.PHONY : Days/Day15/DayFifteenPartOne.cpp.s
+
+Days/Day15/DayFifteenPartTwo.obj: Days/Day15/DayFifteenPartTwo.cpp.obj
+.PHONY : Days/Day15/DayFifteenPartTwo.obj
+
+# target to build an object file
+Days/Day15/DayFifteenPartTwo.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Days/Day15/DayFifteenPartTwo.cpp.obj
+.PHONY : Days/Day15/DayFifteenPartTwo.cpp.obj
+
+Days/Day15/DayFifteenPartTwo.i: Days/Day15/DayFifteenPartTwo.cpp.i
+.PHONY : Days/Day15/DayFifteenPartTwo.i
+
+# target to preprocess a source file
+Days/Day15/DayFifteenPartTwo.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Days/Day15/DayFifteenPartTwo.cpp.i
+.PHONY : Days/Day15/DayFifteenPartTwo.cpp.i
+
+Days/Day15/DayFifteenPartTwo.s: Days/Day15/DayFifteenPartTwo.cpp.s
+.PHONY : Days/Day15/DayFifteenPartTwo.s
+
+# target to generate assembly for a file
+Days/Day15/DayFifteenPartTwo.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Days/Day15/DayFifteenPartTwo.cpp.s
+.PHONY : Days/Day15/DayFifteenPartTwo.cpp.s
+
+Days/Day16/DaySixteenPartOne.obj: Days/Day16/DaySixteenPartOne.cpp.obj
+.PHONY : Days/Day16/DaySixteenPartOne.obj
+
+# target to build an object file
+Days/Day16/DaySixteenPartOne.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Days/Day16/DaySixteenPartOne.cpp.obj
+.PHONY : Days/Day16/DaySixteenPartOne.cpp.obj
+
+Days/Day16/DaySixteenPartOne.i: Days/Day16/DaySixteenPartOne.cpp.i
+.PHONY : Days/Day16/DaySixteenPartOne.i
+
+# target to preprocess a source file
+Days/Day16/DaySixteenPartOne.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Days/Day16/DaySixteenPartOne.cpp.i
+.PHONY : Days/Day16/DaySixteenPartOne.cpp.i
+
+Days/Day16/DaySixteenPartOne.s: Days/Day16/DaySixteenPartOne.cpp.s
+.PHONY : Days/Day16/DaySixteenPartOne.s
+
+# target to generate assembly for a file
+Days/Day16/DaySixteenPartOne.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Days/Day16/DaySixteenPartOne.cpp.s
+.PHONY : Days/Day16/DaySixteenPartOne.cpp.s
+
+Days/Day16/DaySixteenPartTwo.obj: Days/Day16/DaySixteenPartTwo.cpp.obj
+.PHONY : Days/Day16/DaySixteenPartTwo.obj
+
+# target to build an object file
+Days/Day16/DaySixteenPartTwo.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Days/Day16/DaySixteenPartTwo.cpp.obj
+.PHONY : Days/Day16/DaySixteenPartTwo.cpp.obj
+
+Days/Day16/DaySixteenPartTwo.i: Days/Day16/DaySixteenPartTwo.cpp.i
+.PHONY : Days/Day16/DaySixteenPartTwo.i
+
+# target to preprocess a source file
+Days/Day16/DaySixteenPartTwo.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Days/Day16/DaySixteenPartTwo.cpp.i
+.PHONY : Days/Day16/DaySixteenPartTwo.cpp.i
+
+Days/Day16/DaySixteenPartTwo.s: Days/Day16/DaySixteenPartTwo.cpp.s
+.PHONY : Days/Day16/DaySixteenPartTwo.s
+
+# target to generate assembly for a file
+Days/Day16/DaySixteenPartTwo.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Days/Day16/DaySixteenPartTwo.cpp.s
+.PHONY : Days/Day16/DaySixteenPartTwo.cpp.s
+
+Days/Day17/DaySeventeenPartOne.obj: Days/Day17/DaySeventeenPartOne.cpp.obj
+.PHONY : Days/Day17/DaySeventeenPartOne.obj
+
+# target to build an object file
+Days/Day17/DaySeventeenPartOne.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Days/Day17/DaySeventeenPartOne.cpp.obj
+.PHONY : Days/Day17/DaySeventeenPartOne.cpp.obj
+
+Days/Day17/DaySeventeenPartOne.i: Days/Day17/DaySeventeenPartOne.cpp.i
+.PHONY : Days/Day17/DaySeventeenPartOne.i
+
+# target to preprocess a source file
+Days/Day17/DaySeventeenPartOne.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Days/Day17/DaySeventeenPartOne.cpp.i
+.PHONY : Days/Day17/DaySeventeenPartOne.cpp.i
+
+Days/Day17/DaySeventeenPartOne.s: Days/Day17/DaySeventeenPartOne.cpp.s
+.PHONY : Days/Day17/DaySeventeenPartOne.s
+
+# target to generate assembly for a file
+Days/Day17/DaySeventeenPartOne.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Days/Day17/DaySeventeenPartOne.cpp.s
+.PHONY : Days/Day17/DaySeventeenPartOne.cpp.s
+
+Days/Day17/DaySeventeenPartTwo.obj: Days/Day17/DaySeventeenPartTwo.cpp.obj
+.PHONY : Days/Day17/DaySeventeenPartTwo.obj
+
+# target to build an object file
+Days/Day17/DaySeventeenPartTwo.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Days/Day17/DaySeventeenPartTwo.cpp.obj
+.PHONY : Days/Day17/DaySeventeenPartTwo.cpp.obj
+
+Days/Day17/DaySeventeenPartTwo.i: Days/Day17/DaySeventeenPartTwo.cpp.i
+.PHONY : Days/Day17/DaySeventeenPartTwo.i
+
+# target to preprocess a source file
+Days/Day17/DaySeventeenPartTwo.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Days/Day17/DaySeventeenPartTwo.cpp.i
+.PHONY : Days/Day17/DaySeventeenPartTwo.cpp.i
+
+Days/Day17/DaySeventeenPartTwo.s: Days/Day17/DaySeventeenPartTwo.cpp.s
+.PHONY : Days/Day17/DaySeventeenPartTwo.s
+
+# target to generate assembly for a file
+Days/Day17/DaySeventeenPartTwo.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Days/Day17/DaySeventeenPartTwo.cpp.s
+.PHONY : Days/Day17/DaySeventeenPartTwo.cpp.s
+
+Days/Day18/DayEighteenPartOne.obj: Days/Day18/DayEighteenPartOne.cpp.obj
+.PHONY : Days/Day18/DayEighteenPartOne.obj
+
+# target to build an object file
+Days/Day18/DayEighteenPartOne.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Days/Day18/DayEighteenPartOne.cpp.obj
+.PHONY : Days/Day18/DayEighteenPartOne.cpp.obj
+
+Days/Day18/DayEighteenPartOne.i: Days/Day18/DayEighteenPartOne.cpp.i
+.PHONY : Days/Day18/DayEighteenPartOne.i
+
+# target to preprocess a source file
+Days/Day18/DayEighteenPartOne.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Days/Day18/DayEighteenPartOne.cpp.i
+.PHONY : Days/Day18/DayEighteenPartOne.cpp.i
+
+Days/Day18/DayEighteenPartOne.s: Days/Day18/DayEighteenPartOne.cpp.s
+.PHONY : Days/Day18/DayEighteenPartOne.s
+
+# target to generate assembly for a file
+Days/Day18/DayEighteenPartOne.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Days/Day18/DayEighteenPartOne.cpp.s
+.PHONY : Days/Day18/DayEighteenPartOne.cpp.s
+
+Days/Day18/DayEighteenPartTwo.obj: Days/Day18/DayEighteenPartTwo.cpp.obj
+.PHONY : Days/Day18/DayEighteenPartTwo.obj
+
+# target to build an object file
+Days/Day18/DayEighteenPartTwo.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Days/Day18/DayEighteenPartTwo.cpp.obj
+.PHONY : Days/Day18/DayEighteenPartTwo.cpp.obj
+
+Days/Day18/DayEighteenPartTwo.i: Days/Day18/DayEighteenPartTwo.cpp.i
+.PHONY : Days/Day18/DayEighteenPartTwo.i
+
+# target to preprocess a source file
+Days/Day18/DayEighteenPartTwo.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Days/Day18/DayEighteenPartTwo.cpp.i
+.PHONY : Days/Day18/DayEighteenPartTwo.cpp.i
+
+Days/Day18/DayEighteenPartTwo.s: Days/Day18/DayEighteenPartTwo.cpp.s
+.PHONY : Days/Day18/DayEighteenPartTwo.s
+
+# target to generate assembly for a file
+Days/Day18/DayEighteenPartTwo.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Days/Day18/DayEighteenPartTwo.cpp.s
+.PHONY : Days/Day18/DayEighteenPartTwo.cpp.s
+
+Days/Day19/DayNineteenPartOne.obj: Days/Day19/DayNineteenPartOne.cpp.obj
+.PHONY : Days/Day19/DayNineteenPartOne.obj
+
+# target to build an object file
+Days/Day19/DayNineteenPartOne.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Days/Day19/DayNineteenPartOne.cpp.obj
+.PHONY : Days/Day19/DayNineteenPartOne.cpp.obj
+
+Days/Day19/DayNineteenPartOne.i: Days/Day19/DayNineteenPartOne.cpp.i
+.PHONY : Days/Day19/DayNineteenPartOne.i
+
+# target to preprocess a source file
+Days/Day19/DayNineteenPartOne.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Days/Day19/DayNineteenPartOne.cpp.i
+.PHONY : Days/Day19/DayNineteenPartOne.cpp.i
+
+Days/Day19/DayNineteenPartOne.s: Days/Day19/DayNineteenPartOne.cpp.s
+.PHONY : Days/Day19/DayNineteenPartOne.s
+
+# target to generate assembly for a file
+Days/Day19/DayNineteenPartOne.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Days/Day19/DayNineteenPartOne.cpp.s
+.PHONY : Days/Day19/DayNineteenPartOne.cpp.s
+
+Days/Day19/DayNineteenPartTwo.obj: Days/Day19/DayNineteenPartTwo.cpp.obj
+.PHONY : Days/Day19/DayNineteenPartTwo.obj
+
+# target to build an object file
+Days/Day19/DayNineteenPartTwo.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Days/Day19/DayNineteenPartTwo.cpp.obj
+.PHONY : Days/Day19/DayNineteenPartTwo.cpp.obj
+
+Days/Day19/DayNineteenPartTwo.i: Days/Day19/DayNineteenPartTwo.cpp.i
+.PHONY : Days/Day19/DayNineteenPartTwo.i
+
+# target to preprocess a source file
+Days/Day19/DayNineteenPartTwo.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Days/Day19/DayNineteenPartTwo.cpp.i
+.PHONY : Days/Day19/DayNineteenPartTwo.cpp.i
+
+Days/Day19/DayNineteenPartTwo.s: Days/Day19/DayNineteenPartTwo.cpp.s
+.PHONY : Days/Day19/DayNineteenPartTwo.s
+
+# target to generate assembly for a file
+Days/Day19/DayNineteenPartTwo.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Days/Day19/DayNineteenPartTwo.cpp.s
+.PHONY : Days/Day19/DayNineteenPartTwo.cpp.s
+
 Days/Day2/DayTwoPartOne.obj: Days/Day2/DayTwoPartOne.cpp.obj
 .PHONY : Days/Day2/DayTwoPartOne.obj
 
@@ -247,6 +727,294 @@ Days/Day2/DayTwoPartTwo.s: Days/Day2/DayTwoPartTwo.cpp.s
 Days/Day2/DayTwoPartTwo.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Days/Day2/DayTwoPartTwo.cpp.s
 .PHONY : Days/Day2/DayTwoPartTwo.cpp.s
+
+Days/Day20/DayTwentyPartOne.obj: Days/Day20/DayTwentyPartOne.cpp.obj
+.PHONY : Days/Day20/DayTwentyPartOne.obj
+
+# target to build an object file
+Days/Day20/DayTwentyPartOne.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Days/Day20/DayTwentyPartOne.cpp.obj
+.PHONY : Days/Day20/DayTwentyPartOne.cpp.obj
+
+Days/Day20/DayTwentyPartOne.i: Days/Day20/DayTwentyPartOne.cpp.i
+.PHONY : Days/Day20/DayTwentyPartOne.i
+
+# target to preprocess a source file
+Days/Day20/DayTwentyPartOne.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Days/Day20/DayTwentyPartOne.cpp.i
+.PHONY : Days/Day20/DayTwentyPartOne.cpp.i
+
+Days/Day20/DayTwentyPartOne.s: Days/Day20/DayTwentyPartOne.cpp.s
+.PHONY : Days/Day20/DayTwentyPartOne.s
+
+# target to generate assembly for a file
+Days/Day20/DayTwentyPartOne.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Days/Day20/DayTwentyPartOne.cpp.s
+.PHONY : Days/Day20/DayTwentyPartOne.cpp.s
+
+Days/Day20/DayTwentyPartTwo.obj: Days/Day20/DayTwentyPartTwo.cpp.obj
+.PHONY : Days/Day20/DayTwentyPartTwo.obj
+
+# target to build an object file
+Days/Day20/DayTwentyPartTwo.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Days/Day20/DayTwentyPartTwo.cpp.obj
+.PHONY : Days/Day20/DayTwentyPartTwo.cpp.obj
+
+Days/Day20/DayTwentyPartTwo.i: Days/Day20/DayTwentyPartTwo.cpp.i
+.PHONY : Days/Day20/DayTwentyPartTwo.i
+
+# target to preprocess a source file
+Days/Day20/DayTwentyPartTwo.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Days/Day20/DayTwentyPartTwo.cpp.i
+.PHONY : Days/Day20/DayTwentyPartTwo.cpp.i
+
+Days/Day20/DayTwentyPartTwo.s: Days/Day20/DayTwentyPartTwo.cpp.s
+.PHONY : Days/Day20/DayTwentyPartTwo.s
+
+# target to generate assembly for a file
+Days/Day20/DayTwentyPartTwo.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Days/Day20/DayTwentyPartTwo.cpp.s
+.PHONY : Days/Day20/DayTwentyPartTwo.cpp.s
+
+Days/Day21/DayTwentyOnePartOne.obj: Days/Day21/DayTwentyOnePartOne.cpp.obj
+.PHONY : Days/Day21/DayTwentyOnePartOne.obj
+
+# target to build an object file
+Days/Day21/DayTwentyOnePartOne.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Days/Day21/DayTwentyOnePartOne.cpp.obj
+.PHONY : Days/Day21/DayTwentyOnePartOne.cpp.obj
+
+Days/Day21/DayTwentyOnePartOne.i: Days/Day21/DayTwentyOnePartOne.cpp.i
+.PHONY : Days/Day21/DayTwentyOnePartOne.i
+
+# target to preprocess a source file
+Days/Day21/DayTwentyOnePartOne.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Days/Day21/DayTwentyOnePartOne.cpp.i
+.PHONY : Days/Day21/DayTwentyOnePartOne.cpp.i
+
+Days/Day21/DayTwentyOnePartOne.s: Days/Day21/DayTwentyOnePartOne.cpp.s
+.PHONY : Days/Day21/DayTwentyOnePartOne.s
+
+# target to generate assembly for a file
+Days/Day21/DayTwentyOnePartOne.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Days/Day21/DayTwentyOnePartOne.cpp.s
+.PHONY : Days/Day21/DayTwentyOnePartOne.cpp.s
+
+Days/Day21/DayTwentyOnePartTwo.obj: Days/Day21/DayTwentyOnePartTwo.cpp.obj
+.PHONY : Days/Day21/DayTwentyOnePartTwo.obj
+
+# target to build an object file
+Days/Day21/DayTwentyOnePartTwo.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Days/Day21/DayTwentyOnePartTwo.cpp.obj
+.PHONY : Days/Day21/DayTwentyOnePartTwo.cpp.obj
+
+Days/Day21/DayTwentyOnePartTwo.i: Days/Day21/DayTwentyOnePartTwo.cpp.i
+.PHONY : Days/Day21/DayTwentyOnePartTwo.i
+
+# target to preprocess a source file
+Days/Day21/DayTwentyOnePartTwo.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Days/Day21/DayTwentyOnePartTwo.cpp.i
+.PHONY : Days/Day21/DayTwentyOnePartTwo.cpp.i
+
+Days/Day21/DayTwentyOnePartTwo.s: Days/Day21/DayTwentyOnePartTwo.cpp.s
+.PHONY : Days/Day21/DayTwentyOnePartTwo.s
+
+# target to generate assembly for a file
+Days/Day21/DayTwentyOnePartTwo.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Days/Day21/DayTwentyOnePartTwo.cpp.s
+.PHONY : Days/Day21/DayTwentyOnePartTwo.cpp.s
+
+Days/Day22/DayTwentyTwoPartOne.obj: Days/Day22/DayTwentyTwoPartOne.cpp.obj
+.PHONY : Days/Day22/DayTwentyTwoPartOne.obj
+
+# target to build an object file
+Days/Day22/DayTwentyTwoPartOne.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Days/Day22/DayTwentyTwoPartOne.cpp.obj
+.PHONY : Days/Day22/DayTwentyTwoPartOne.cpp.obj
+
+Days/Day22/DayTwentyTwoPartOne.i: Days/Day22/DayTwentyTwoPartOne.cpp.i
+.PHONY : Days/Day22/DayTwentyTwoPartOne.i
+
+# target to preprocess a source file
+Days/Day22/DayTwentyTwoPartOne.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Days/Day22/DayTwentyTwoPartOne.cpp.i
+.PHONY : Days/Day22/DayTwentyTwoPartOne.cpp.i
+
+Days/Day22/DayTwentyTwoPartOne.s: Days/Day22/DayTwentyTwoPartOne.cpp.s
+.PHONY : Days/Day22/DayTwentyTwoPartOne.s
+
+# target to generate assembly for a file
+Days/Day22/DayTwentyTwoPartOne.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Days/Day22/DayTwentyTwoPartOne.cpp.s
+.PHONY : Days/Day22/DayTwentyTwoPartOne.cpp.s
+
+Days/Day22/DayTwentyTwoPartTwo.obj: Days/Day22/DayTwentyTwoPartTwo.cpp.obj
+.PHONY : Days/Day22/DayTwentyTwoPartTwo.obj
+
+# target to build an object file
+Days/Day22/DayTwentyTwoPartTwo.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Days/Day22/DayTwentyTwoPartTwo.cpp.obj
+.PHONY : Days/Day22/DayTwentyTwoPartTwo.cpp.obj
+
+Days/Day22/DayTwentyTwoPartTwo.i: Days/Day22/DayTwentyTwoPartTwo.cpp.i
+.PHONY : Days/Day22/DayTwentyTwoPartTwo.i
+
+# target to preprocess a source file
+Days/Day22/DayTwentyTwoPartTwo.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Days/Day22/DayTwentyTwoPartTwo.cpp.i
+.PHONY : Days/Day22/DayTwentyTwoPartTwo.cpp.i
+
+Days/Day22/DayTwentyTwoPartTwo.s: Days/Day22/DayTwentyTwoPartTwo.cpp.s
+.PHONY : Days/Day22/DayTwentyTwoPartTwo.s
+
+# target to generate assembly for a file
+Days/Day22/DayTwentyTwoPartTwo.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Days/Day22/DayTwentyTwoPartTwo.cpp.s
+.PHONY : Days/Day22/DayTwentyTwoPartTwo.cpp.s
+
+Days/Day23/DayTwentyThreePartOne.obj: Days/Day23/DayTwentyThreePartOne.cpp.obj
+.PHONY : Days/Day23/DayTwentyThreePartOne.obj
+
+# target to build an object file
+Days/Day23/DayTwentyThreePartOne.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Days/Day23/DayTwentyThreePartOne.cpp.obj
+.PHONY : Days/Day23/DayTwentyThreePartOne.cpp.obj
+
+Days/Day23/DayTwentyThreePartOne.i: Days/Day23/DayTwentyThreePartOne.cpp.i
+.PHONY : Days/Day23/DayTwentyThreePartOne.i
+
+# target to preprocess a source file
+Days/Day23/DayTwentyThreePartOne.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Days/Day23/DayTwentyThreePartOne.cpp.i
+.PHONY : Days/Day23/DayTwentyThreePartOne.cpp.i
+
+Days/Day23/DayTwentyThreePartOne.s: Days/Day23/DayTwentyThreePartOne.cpp.s
+.PHONY : Days/Day23/DayTwentyThreePartOne.s
+
+# target to generate assembly for a file
+Days/Day23/DayTwentyThreePartOne.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Days/Day23/DayTwentyThreePartOne.cpp.s
+.PHONY : Days/Day23/DayTwentyThreePartOne.cpp.s
+
+Days/Day23/DayTwentyThreePartTwo.obj: Days/Day23/DayTwentyThreePartTwo.cpp.obj
+.PHONY : Days/Day23/DayTwentyThreePartTwo.obj
+
+# target to build an object file
+Days/Day23/DayTwentyThreePartTwo.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Days/Day23/DayTwentyThreePartTwo.cpp.obj
+.PHONY : Days/Day23/DayTwentyThreePartTwo.cpp.obj
+
+Days/Day23/DayTwentyThreePartTwo.i: Days/Day23/DayTwentyThreePartTwo.cpp.i
+.PHONY : Days/Day23/DayTwentyThreePartTwo.i
+
+# target to preprocess a source file
+Days/Day23/DayTwentyThreePartTwo.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Days/Day23/DayTwentyThreePartTwo.cpp.i
+.PHONY : Days/Day23/DayTwentyThreePartTwo.cpp.i
+
+Days/Day23/DayTwentyThreePartTwo.s: Days/Day23/DayTwentyThreePartTwo.cpp.s
+.PHONY : Days/Day23/DayTwentyThreePartTwo.s
+
+# target to generate assembly for a file
+Days/Day23/DayTwentyThreePartTwo.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Days/Day23/DayTwentyThreePartTwo.cpp.s
+.PHONY : Days/Day23/DayTwentyThreePartTwo.cpp.s
+
+Days/Day24/DayTwentyFourPartOne.obj: Days/Day24/DayTwentyFourPartOne.cpp.obj
+.PHONY : Days/Day24/DayTwentyFourPartOne.obj
+
+# target to build an object file
+Days/Day24/DayTwentyFourPartOne.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Days/Day24/DayTwentyFourPartOne.cpp.obj
+.PHONY : Days/Day24/DayTwentyFourPartOne.cpp.obj
+
+Days/Day24/DayTwentyFourPartOne.i: Days/Day24/DayTwentyFourPartOne.cpp.i
+.PHONY : Days/Day24/DayTwentyFourPartOne.i
+
+# target to preprocess a source file
+Days/Day24/DayTwentyFourPartOne.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Days/Day24/DayTwentyFourPartOne.cpp.i
+.PHONY : Days/Day24/DayTwentyFourPartOne.cpp.i
+
+Days/Day24/DayTwentyFourPartOne.s: Days/Day24/DayTwentyFourPartOne.cpp.s
+.PHONY : Days/Day24/DayTwentyFourPartOne.s
+
+# target to generate assembly for a file
+Days/Day24/DayTwentyFourPartOne.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Days/Day24/DayTwentyFourPartOne.cpp.s
+.PHONY : Days/Day24/DayTwentyFourPartOne.cpp.s
+
+Days/Day24/DayTwentyFourPartTwo.obj: Days/Day24/DayTwentyFourPartTwo.cpp.obj
+.PHONY : Days/Day24/DayTwentyFourPartTwo.obj
+
+# target to build an object file
+Days/Day24/DayTwentyFourPartTwo.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Days/Day24/DayTwentyFourPartTwo.cpp.obj
+.PHONY : Days/Day24/DayTwentyFourPartTwo.cpp.obj
+
+Days/Day24/DayTwentyFourPartTwo.i: Days/Day24/DayTwentyFourPartTwo.cpp.i
+.PHONY : Days/Day24/DayTwentyFourPartTwo.i
+
+# target to preprocess a source file
+Days/Day24/DayTwentyFourPartTwo.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Days/Day24/DayTwentyFourPartTwo.cpp.i
+.PHONY : Days/Day24/DayTwentyFourPartTwo.cpp.i
+
+Days/Day24/DayTwentyFourPartTwo.s: Days/Day24/DayTwentyFourPartTwo.cpp.s
+.PHONY : Days/Day24/DayTwentyFourPartTwo.s
+
+# target to generate assembly for a file
+Days/Day24/DayTwentyFourPartTwo.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Days/Day24/DayTwentyFourPartTwo.cpp.s
+.PHONY : Days/Day24/DayTwentyFourPartTwo.cpp.s
+
+Days/Day25/DayTwentyFivePartOne.obj: Days/Day25/DayTwentyFivePartOne.cpp.obj
+.PHONY : Days/Day25/DayTwentyFivePartOne.obj
+
+# target to build an object file
+Days/Day25/DayTwentyFivePartOne.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Days/Day25/DayTwentyFivePartOne.cpp.obj
+.PHONY : Days/Day25/DayTwentyFivePartOne.cpp.obj
+
+Days/Day25/DayTwentyFivePartOne.i: Days/Day25/DayTwentyFivePartOne.cpp.i
+.PHONY : Days/Day25/DayTwentyFivePartOne.i
+
+# target to preprocess a source file
+Days/Day25/DayTwentyFivePartOne.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Days/Day25/DayTwentyFivePartOne.cpp.i
+.PHONY : Days/Day25/DayTwentyFivePartOne.cpp.i
+
+Days/Day25/DayTwentyFivePartOne.s: Days/Day25/DayTwentyFivePartOne.cpp.s
+.PHONY : Days/Day25/DayTwentyFivePartOne.s
+
+# target to generate assembly for a file
+Days/Day25/DayTwentyFivePartOne.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Days/Day25/DayTwentyFivePartOne.cpp.s
+.PHONY : Days/Day25/DayTwentyFivePartOne.cpp.s
+
+Days/Day25/DayTwentyFivePartTwo.obj: Days/Day25/DayTwentyFivePartTwo.cpp.obj
+.PHONY : Days/Day25/DayTwentyFivePartTwo.obj
+
+# target to build an object file
+Days/Day25/DayTwentyFivePartTwo.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Days/Day25/DayTwentyFivePartTwo.cpp.obj
+.PHONY : Days/Day25/DayTwentyFivePartTwo.cpp.obj
+
+Days/Day25/DayTwentyFivePartTwo.i: Days/Day25/DayTwentyFivePartTwo.cpp.i
+.PHONY : Days/Day25/DayTwentyFivePartTwo.i
+
+# target to preprocess a source file
+Days/Day25/DayTwentyFivePartTwo.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Days/Day25/DayTwentyFivePartTwo.cpp.i
+.PHONY : Days/Day25/DayTwentyFivePartTwo.cpp.i
+
+Days/Day25/DayTwentyFivePartTwo.s: Days/Day25/DayTwentyFivePartTwo.cpp.s
+.PHONY : Days/Day25/DayTwentyFivePartTwo.s
+
+# target to generate assembly for a file
+Days/Day25/DayTwentyFivePartTwo.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Days/Day25/DayTwentyFivePartTwo.cpp.s
+.PHONY : Days/Day25/DayTwentyFivePartTwo.cpp.s
 
 Days/Day3/DayThreePartOne.obj: Days/Day3/DayThreePartOne.cpp.obj
 .PHONY : Days/Day3/DayThreePartOne.obj
@@ -440,6 +1208,150 @@ Days/Day6/DaySixPartTwo.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Days/Day6/DaySixPartTwo.cpp.s
 .PHONY : Days/Day6/DaySixPartTwo.cpp.s
 
+Days/Day7/DaySevenPartOne.obj: Days/Day7/DaySevenPartOne.cpp.obj
+.PHONY : Days/Day7/DaySevenPartOne.obj
+
+# target to build an object file
+Days/Day7/DaySevenPartOne.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Days/Day7/DaySevenPartOne.cpp.obj
+.PHONY : Days/Day7/DaySevenPartOne.cpp.obj
+
+Days/Day7/DaySevenPartOne.i: Days/Day7/DaySevenPartOne.cpp.i
+.PHONY : Days/Day7/DaySevenPartOne.i
+
+# target to preprocess a source file
+Days/Day7/DaySevenPartOne.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Days/Day7/DaySevenPartOne.cpp.i
+.PHONY : Days/Day7/DaySevenPartOne.cpp.i
+
+Days/Day7/DaySevenPartOne.s: Days/Day7/DaySevenPartOne.cpp.s
+.PHONY : Days/Day7/DaySevenPartOne.s
+
+# target to generate assembly for a file
+Days/Day7/DaySevenPartOne.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Days/Day7/DaySevenPartOne.cpp.s
+.PHONY : Days/Day7/DaySevenPartOne.cpp.s
+
+Days/Day7/DaySevenPartTwo.obj: Days/Day7/DaySevenPartTwo.cpp.obj
+.PHONY : Days/Day7/DaySevenPartTwo.obj
+
+# target to build an object file
+Days/Day7/DaySevenPartTwo.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Days/Day7/DaySevenPartTwo.cpp.obj
+.PHONY : Days/Day7/DaySevenPartTwo.cpp.obj
+
+Days/Day7/DaySevenPartTwo.i: Days/Day7/DaySevenPartTwo.cpp.i
+.PHONY : Days/Day7/DaySevenPartTwo.i
+
+# target to preprocess a source file
+Days/Day7/DaySevenPartTwo.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Days/Day7/DaySevenPartTwo.cpp.i
+.PHONY : Days/Day7/DaySevenPartTwo.cpp.i
+
+Days/Day7/DaySevenPartTwo.s: Days/Day7/DaySevenPartTwo.cpp.s
+.PHONY : Days/Day7/DaySevenPartTwo.s
+
+# target to generate assembly for a file
+Days/Day7/DaySevenPartTwo.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Days/Day7/DaySevenPartTwo.cpp.s
+.PHONY : Days/Day7/DaySevenPartTwo.cpp.s
+
+Days/Day8/DayEightPartOne.obj: Days/Day8/DayEightPartOne.cpp.obj
+.PHONY : Days/Day8/DayEightPartOne.obj
+
+# target to build an object file
+Days/Day8/DayEightPartOne.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Days/Day8/DayEightPartOne.cpp.obj
+.PHONY : Days/Day8/DayEightPartOne.cpp.obj
+
+Days/Day8/DayEightPartOne.i: Days/Day8/DayEightPartOne.cpp.i
+.PHONY : Days/Day8/DayEightPartOne.i
+
+# target to preprocess a source file
+Days/Day8/DayEightPartOne.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Days/Day8/DayEightPartOne.cpp.i
+.PHONY : Days/Day8/DayEightPartOne.cpp.i
+
+Days/Day8/DayEightPartOne.s: Days/Day8/DayEightPartOne.cpp.s
+.PHONY : Days/Day8/DayEightPartOne.s
+
+# target to generate assembly for a file
+Days/Day8/DayEightPartOne.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Days/Day8/DayEightPartOne.cpp.s
+.PHONY : Days/Day8/DayEightPartOne.cpp.s
+
+Days/Day8/DayEightPartTwo.obj: Days/Day8/DayEightPartTwo.cpp.obj
+.PHONY : Days/Day8/DayEightPartTwo.obj
+
+# target to build an object file
+Days/Day8/DayEightPartTwo.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Days/Day8/DayEightPartTwo.cpp.obj
+.PHONY : Days/Day8/DayEightPartTwo.cpp.obj
+
+Days/Day8/DayEightPartTwo.i: Days/Day8/DayEightPartTwo.cpp.i
+.PHONY : Days/Day8/DayEightPartTwo.i
+
+# target to preprocess a source file
+Days/Day8/DayEightPartTwo.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Days/Day8/DayEightPartTwo.cpp.i
+.PHONY : Days/Day8/DayEightPartTwo.cpp.i
+
+Days/Day8/DayEightPartTwo.s: Days/Day8/DayEightPartTwo.cpp.s
+.PHONY : Days/Day8/DayEightPartTwo.s
+
+# target to generate assembly for a file
+Days/Day8/DayEightPartTwo.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Days/Day8/DayEightPartTwo.cpp.s
+.PHONY : Days/Day8/DayEightPartTwo.cpp.s
+
+Days/Day9/DayNinePartOne.obj: Days/Day9/DayNinePartOne.cpp.obj
+.PHONY : Days/Day9/DayNinePartOne.obj
+
+# target to build an object file
+Days/Day9/DayNinePartOne.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Days/Day9/DayNinePartOne.cpp.obj
+.PHONY : Days/Day9/DayNinePartOne.cpp.obj
+
+Days/Day9/DayNinePartOne.i: Days/Day9/DayNinePartOne.cpp.i
+.PHONY : Days/Day9/DayNinePartOne.i
+
+# target to preprocess a source file
+Days/Day9/DayNinePartOne.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Days/Day9/DayNinePartOne.cpp.i
+.PHONY : Days/Day9/DayNinePartOne.cpp.i
+
+Days/Day9/DayNinePartOne.s: Days/Day9/DayNinePartOne.cpp.s
+.PHONY : Days/Day9/DayNinePartOne.s
+
+# target to generate assembly for a file
+Days/Day9/DayNinePartOne.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Days/Day9/DayNinePartOne.cpp.s
+.PHONY : Days/Day9/DayNinePartOne.cpp.s
+
+Days/Day9/DayNinePartTwo.obj: Days/Day9/DayNinePartTwo.cpp.obj
+.PHONY : Days/Day9/DayNinePartTwo.obj
+
+# target to build an object file
+Days/Day9/DayNinePartTwo.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Days/Day9/DayNinePartTwo.cpp.obj
+.PHONY : Days/Day9/DayNinePartTwo.cpp.obj
+
+Days/Day9/DayNinePartTwo.i: Days/Day9/DayNinePartTwo.cpp.i
+.PHONY : Days/Day9/DayNinePartTwo.i
+
+# target to preprocess a source file
+Days/Day9/DayNinePartTwo.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Days/Day9/DayNinePartTwo.cpp.i
+.PHONY : Days/Day9/DayNinePartTwo.cpp.i
+
+Days/Day9/DayNinePartTwo.s: Days/Day9/DayNinePartTwo.cpp.s
+.PHONY : Days/Day9/DayNinePartTwo.s
+
+# target to generate assembly for a file
+Days/Day9/DayNinePartTwo.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Days/Day9/DayNinePartTwo.cpp.s
+.PHONY : Days/Day9/DayNinePartTwo.cpp.s
+
 main.obj: main.cpp.obj
 .PHONY : main.obj
 
@@ -482,12 +1394,108 @@ help:
 	@echo ... Days/Day1/DayOnePartTwo.obj
 	@echo ... Days/Day1/DayOnePartTwo.i
 	@echo ... Days/Day1/DayOnePartTwo.s
+	@echo ... Days/Day10/DayTenPartOne.obj
+	@echo ... Days/Day10/DayTenPartOne.i
+	@echo ... Days/Day10/DayTenPartOne.s
+	@echo ... Days/Day10/DayTenPartTwo.obj
+	@echo ... Days/Day10/DayTenPartTwo.i
+	@echo ... Days/Day10/DayTenPartTwo.s
+	@echo ... Days/Day11/DayElevenPartOne.obj
+	@echo ... Days/Day11/DayElevenPartOne.i
+	@echo ... Days/Day11/DayElevenPartOne.s
+	@echo ... Days/Day11/DayElevenPartTwo.obj
+	@echo ... Days/Day11/DayElevenPartTwo.i
+	@echo ... Days/Day11/DayElevenPartTwo.s
+	@echo ... Days/Day12/DayTwelvePartOne.obj
+	@echo ... Days/Day12/DayTwelvePartOne.i
+	@echo ... Days/Day12/DayTwelvePartOne.s
+	@echo ... Days/Day12/DayTwelvePartTwo.obj
+	@echo ... Days/Day12/DayTwelvePartTwo.i
+	@echo ... Days/Day12/DayTwelvePartTwo.s
+	@echo ... Days/Day13/DayThirteenPartOne.obj
+	@echo ... Days/Day13/DayThirteenPartOne.i
+	@echo ... Days/Day13/DayThirteenPartOne.s
+	@echo ... Days/Day13/DayThirteenPartTwo.obj
+	@echo ... Days/Day13/DayThirteenPartTwo.i
+	@echo ... Days/Day13/DayThirteenPartTwo.s
+	@echo ... Days/Day14/DayFourteenPartOne.obj
+	@echo ... Days/Day14/DayFourteenPartOne.i
+	@echo ... Days/Day14/DayFourteenPartOne.s
+	@echo ... Days/Day14/DayFourteenPartTwo.obj
+	@echo ... Days/Day14/DayFourteenPartTwo.i
+	@echo ... Days/Day14/DayFourteenPartTwo.s
+	@echo ... Days/Day15/DayFifteenPartOne.obj
+	@echo ... Days/Day15/DayFifteenPartOne.i
+	@echo ... Days/Day15/DayFifteenPartOne.s
+	@echo ... Days/Day15/DayFifteenPartTwo.obj
+	@echo ... Days/Day15/DayFifteenPartTwo.i
+	@echo ... Days/Day15/DayFifteenPartTwo.s
+	@echo ... Days/Day16/DaySixteenPartOne.obj
+	@echo ... Days/Day16/DaySixteenPartOne.i
+	@echo ... Days/Day16/DaySixteenPartOne.s
+	@echo ... Days/Day16/DaySixteenPartTwo.obj
+	@echo ... Days/Day16/DaySixteenPartTwo.i
+	@echo ... Days/Day16/DaySixteenPartTwo.s
+	@echo ... Days/Day17/DaySeventeenPartOne.obj
+	@echo ... Days/Day17/DaySeventeenPartOne.i
+	@echo ... Days/Day17/DaySeventeenPartOne.s
+	@echo ... Days/Day17/DaySeventeenPartTwo.obj
+	@echo ... Days/Day17/DaySeventeenPartTwo.i
+	@echo ... Days/Day17/DaySeventeenPartTwo.s
+	@echo ... Days/Day18/DayEighteenPartOne.obj
+	@echo ... Days/Day18/DayEighteenPartOne.i
+	@echo ... Days/Day18/DayEighteenPartOne.s
+	@echo ... Days/Day18/DayEighteenPartTwo.obj
+	@echo ... Days/Day18/DayEighteenPartTwo.i
+	@echo ... Days/Day18/DayEighteenPartTwo.s
+	@echo ... Days/Day19/DayNineteenPartOne.obj
+	@echo ... Days/Day19/DayNineteenPartOne.i
+	@echo ... Days/Day19/DayNineteenPartOne.s
+	@echo ... Days/Day19/DayNineteenPartTwo.obj
+	@echo ... Days/Day19/DayNineteenPartTwo.i
+	@echo ... Days/Day19/DayNineteenPartTwo.s
 	@echo ... Days/Day2/DayTwoPartOne.obj
 	@echo ... Days/Day2/DayTwoPartOne.i
 	@echo ... Days/Day2/DayTwoPartOne.s
 	@echo ... Days/Day2/DayTwoPartTwo.obj
 	@echo ... Days/Day2/DayTwoPartTwo.i
 	@echo ... Days/Day2/DayTwoPartTwo.s
+	@echo ... Days/Day20/DayTwentyPartOne.obj
+	@echo ... Days/Day20/DayTwentyPartOne.i
+	@echo ... Days/Day20/DayTwentyPartOne.s
+	@echo ... Days/Day20/DayTwentyPartTwo.obj
+	@echo ... Days/Day20/DayTwentyPartTwo.i
+	@echo ... Days/Day20/DayTwentyPartTwo.s
+	@echo ... Days/Day21/DayTwentyOnePartOne.obj
+	@echo ... Days/Day21/DayTwentyOnePartOne.i
+	@echo ... Days/Day21/DayTwentyOnePartOne.s
+	@echo ... Days/Day21/DayTwentyOnePartTwo.obj
+	@echo ... Days/Day21/DayTwentyOnePartTwo.i
+	@echo ... Days/Day21/DayTwentyOnePartTwo.s
+	@echo ... Days/Day22/DayTwentyTwoPartOne.obj
+	@echo ... Days/Day22/DayTwentyTwoPartOne.i
+	@echo ... Days/Day22/DayTwentyTwoPartOne.s
+	@echo ... Days/Day22/DayTwentyTwoPartTwo.obj
+	@echo ... Days/Day22/DayTwentyTwoPartTwo.i
+	@echo ... Days/Day22/DayTwentyTwoPartTwo.s
+	@echo ... Days/Day23/DayTwentyThreePartOne.obj
+	@echo ... Days/Day23/DayTwentyThreePartOne.i
+	@echo ... Days/Day23/DayTwentyThreePartOne.s
+	@echo ... Days/Day23/DayTwentyThreePartTwo.obj
+	@echo ... Days/Day23/DayTwentyThreePartTwo.i
+	@echo ... Days/Day23/DayTwentyThreePartTwo.s
+	@echo ... Days/Day24/DayTwentyFourPartOne.obj
+	@echo ... Days/Day24/DayTwentyFourPartOne.i
+	@echo ... Days/Day24/DayTwentyFourPartOne.s
+	@echo ... Days/Day24/DayTwentyFourPartTwo.obj
+	@echo ... Days/Day24/DayTwentyFourPartTwo.i
+	@echo ... Days/Day24/DayTwentyFourPartTwo.s
+	@echo ... Days/Day25/DayTwentyFivePartOne.obj
+	@echo ... Days/Day25/DayTwentyFivePartOne.i
+	@echo ... Days/Day25/DayTwentyFivePartOne.s
+	@echo ... Days/Day25/DayTwentyFivePartTwo.obj
+	@echo ... Days/Day25/DayTwentyFivePartTwo.i
+	@echo ... Days/Day25/DayTwentyFivePartTwo.s
 	@echo ... Days/Day3/DayThreePartOne.obj
 	@echo ... Days/Day3/DayThreePartOne.i
 	@echo ... Days/Day3/DayThreePartOne.s
@@ -512,6 +1520,24 @@ help:
 	@echo ... Days/Day6/DaySixPartTwo.obj
 	@echo ... Days/Day6/DaySixPartTwo.i
 	@echo ... Days/Day6/DaySixPartTwo.s
+	@echo ... Days/Day7/DaySevenPartOne.obj
+	@echo ... Days/Day7/DaySevenPartOne.i
+	@echo ... Days/Day7/DaySevenPartOne.s
+	@echo ... Days/Day7/DaySevenPartTwo.obj
+	@echo ... Days/Day7/DaySevenPartTwo.i
+	@echo ... Days/Day7/DaySevenPartTwo.s
+	@echo ... Days/Day8/DayEightPartOne.obj
+	@echo ... Days/Day8/DayEightPartOne.i
+	@echo ... Days/Day8/DayEightPartOne.s
+	@echo ... Days/Day8/DayEightPartTwo.obj
+	@echo ... Days/Day8/DayEightPartTwo.i
+	@echo ... Days/Day8/DayEightPartTwo.s
+	@echo ... Days/Day9/DayNinePartOne.obj
+	@echo ... Days/Day9/DayNinePartOne.i
+	@echo ... Days/Day9/DayNinePartOne.s
+	@echo ... Days/Day9/DayNinePartTwo.obj
+	@echo ... Days/Day9/DayNinePartTwo.i
+	@echo ... Days/Day9/DayNinePartTwo.s
 	@echo ... main.obj
 	@echo ... main.i
 	@echo ... main.s

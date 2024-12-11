@@ -264,6 +264,538 @@ CMakeFiles/untitled.dir/Days/Day6/DaySixPartTwo.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/Days/Day6/DaySixPartTwo.cpp.s"
 	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Dolpix\Desktop\AdventOfCode-2024\Days\Day6\DaySixPartTwo.cpp -o CMakeFiles\untitled.dir\Days\Day6\DaySixPartTwo.cpp.s
 
+CMakeFiles/untitled.dir/Days/Day7/DaySevenPartOne.cpp.obj: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/Days/Day7/DaySevenPartOne.cpp.obj: C:/Users/Dolpix/Desktop/AdventOfCode-2024/Days/Day7/DaySevenPartOne.cpp
+CMakeFiles/untitled.dir/Days/Day7/DaySevenPartOne.cpp.obj: CMakeFiles/untitled.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\Dolpix\Desktop\AdventOfCode-2024\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_15) "Building CXX object CMakeFiles/untitled.dir/Days/Day7/DaySevenPartOne.cpp.obj"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/untitled.dir/Days/Day7/DaySevenPartOne.cpp.obj -MF CMakeFiles\untitled.dir\Days\Day7\DaySevenPartOne.cpp.obj.d -o CMakeFiles\untitled.dir\Days\Day7\DaySevenPartOne.cpp.obj -c C:\Users\Dolpix\Desktop\AdventOfCode-2024\Days\Day7\DaySevenPartOne.cpp
+
+CMakeFiles/untitled.dir/Days/Day7/DaySevenPartOne.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/untitled.dir/Days/Day7/DaySevenPartOne.cpp.i"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Dolpix\Desktop\AdventOfCode-2024\Days\Day7\DaySevenPartOne.cpp > CMakeFiles\untitled.dir\Days\Day7\DaySevenPartOne.cpp.i
+
+CMakeFiles/untitled.dir/Days/Day7/DaySevenPartOne.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/Days/Day7/DaySevenPartOne.cpp.s"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Dolpix\Desktop\AdventOfCode-2024\Days\Day7\DaySevenPartOne.cpp -o CMakeFiles\untitled.dir\Days\Day7\DaySevenPartOne.cpp.s
+
+CMakeFiles/untitled.dir/Days/Day7/DaySevenPartTwo.cpp.obj: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/Days/Day7/DaySevenPartTwo.cpp.obj: C:/Users/Dolpix/Desktop/AdventOfCode-2024/Days/Day7/DaySevenPartTwo.cpp
+CMakeFiles/untitled.dir/Days/Day7/DaySevenPartTwo.cpp.obj: CMakeFiles/untitled.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\Dolpix\Desktop\AdventOfCode-2024\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_16) "Building CXX object CMakeFiles/untitled.dir/Days/Day7/DaySevenPartTwo.cpp.obj"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/untitled.dir/Days/Day7/DaySevenPartTwo.cpp.obj -MF CMakeFiles\untitled.dir\Days\Day7\DaySevenPartTwo.cpp.obj.d -o CMakeFiles\untitled.dir\Days\Day7\DaySevenPartTwo.cpp.obj -c C:\Users\Dolpix\Desktop\AdventOfCode-2024\Days\Day7\DaySevenPartTwo.cpp
+
+CMakeFiles/untitled.dir/Days/Day7/DaySevenPartTwo.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/untitled.dir/Days/Day7/DaySevenPartTwo.cpp.i"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Dolpix\Desktop\AdventOfCode-2024\Days\Day7\DaySevenPartTwo.cpp > CMakeFiles\untitled.dir\Days\Day7\DaySevenPartTwo.cpp.i
+
+CMakeFiles/untitled.dir/Days/Day7/DaySevenPartTwo.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/Days/Day7/DaySevenPartTwo.cpp.s"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Dolpix\Desktop\AdventOfCode-2024\Days\Day7\DaySevenPartTwo.cpp -o CMakeFiles\untitled.dir\Days\Day7\DaySevenPartTwo.cpp.s
+
+CMakeFiles/untitled.dir/Days/Day8/DayEightPartOne.cpp.obj: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/Days/Day8/DayEightPartOne.cpp.obj: C:/Users/Dolpix/Desktop/AdventOfCode-2024/Days/Day8/DayEightPartOne.cpp
+CMakeFiles/untitled.dir/Days/Day8/DayEightPartOne.cpp.obj: CMakeFiles/untitled.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\Dolpix\Desktop\AdventOfCode-2024\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_17) "Building CXX object CMakeFiles/untitled.dir/Days/Day8/DayEightPartOne.cpp.obj"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/untitled.dir/Days/Day8/DayEightPartOne.cpp.obj -MF CMakeFiles\untitled.dir\Days\Day8\DayEightPartOne.cpp.obj.d -o CMakeFiles\untitled.dir\Days\Day8\DayEightPartOne.cpp.obj -c C:\Users\Dolpix\Desktop\AdventOfCode-2024\Days\Day8\DayEightPartOne.cpp
+
+CMakeFiles/untitled.dir/Days/Day8/DayEightPartOne.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/untitled.dir/Days/Day8/DayEightPartOne.cpp.i"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Dolpix\Desktop\AdventOfCode-2024\Days\Day8\DayEightPartOne.cpp > CMakeFiles\untitled.dir\Days\Day8\DayEightPartOne.cpp.i
+
+CMakeFiles/untitled.dir/Days/Day8/DayEightPartOne.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/Days/Day8/DayEightPartOne.cpp.s"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Dolpix\Desktop\AdventOfCode-2024\Days\Day8\DayEightPartOne.cpp -o CMakeFiles\untitled.dir\Days\Day8\DayEightPartOne.cpp.s
+
+CMakeFiles/untitled.dir/Days/Day8/DayEightPartTwo.cpp.obj: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/Days/Day8/DayEightPartTwo.cpp.obj: C:/Users/Dolpix/Desktop/AdventOfCode-2024/Days/Day8/DayEightPartTwo.cpp
+CMakeFiles/untitled.dir/Days/Day8/DayEightPartTwo.cpp.obj: CMakeFiles/untitled.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\Dolpix\Desktop\AdventOfCode-2024\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_18) "Building CXX object CMakeFiles/untitled.dir/Days/Day8/DayEightPartTwo.cpp.obj"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/untitled.dir/Days/Day8/DayEightPartTwo.cpp.obj -MF CMakeFiles\untitled.dir\Days\Day8\DayEightPartTwo.cpp.obj.d -o CMakeFiles\untitled.dir\Days\Day8\DayEightPartTwo.cpp.obj -c C:\Users\Dolpix\Desktop\AdventOfCode-2024\Days\Day8\DayEightPartTwo.cpp
+
+CMakeFiles/untitled.dir/Days/Day8/DayEightPartTwo.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/untitled.dir/Days/Day8/DayEightPartTwo.cpp.i"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Dolpix\Desktop\AdventOfCode-2024\Days\Day8\DayEightPartTwo.cpp > CMakeFiles\untitled.dir\Days\Day8\DayEightPartTwo.cpp.i
+
+CMakeFiles/untitled.dir/Days/Day8/DayEightPartTwo.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/Days/Day8/DayEightPartTwo.cpp.s"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Dolpix\Desktop\AdventOfCode-2024\Days\Day8\DayEightPartTwo.cpp -o CMakeFiles\untitled.dir\Days\Day8\DayEightPartTwo.cpp.s
+
+CMakeFiles/untitled.dir/Days/Day9/DayNinePartOne.cpp.obj: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/Days/Day9/DayNinePartOne.cpp.obj: C:/Users/Dolpix/Desktop/AdventOfCode-2024/Days/Day9/DayNinePartOne.cpp
+CMakeFiles/untitled.dir/Days/Day9/DayNinePartOne.cpp.obj: CMakeFiles/untitled.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\Dolpix\Desktop\AdventOfCode-2024\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_19) "Building CXX object CMakeFiles/untitled.dir/Days/Day9/DayNinePartOne.cpp.obj"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/untitled.dir/Days/Day9/DayNinePartOne.cpp.obj -MF CMakeFiles\untitled.dir\Days\Day9\DayNinePartOne.cpp.obj.d -o CMakeFiles\untitled.dir\Days\Day9\DayNinePartOne.cpp.obj -c C:\Users\Dolpix\Desktop\AdventOfCode-2024\Days\Day9\DayNinePartOne.cpp
+
+CMakeFiles/untitled.dir/Days/Day9/DayNinePartOne.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/untitled.dir/Days/Day9/DayNinePartOne.cpp.i"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Dolpix\Desktop\AdventOfCode-2024\Days\Day9\DayNinePartOne.cpp > CMakeFiles\untitled.dir\Days\Day9\DayNinePartOne.cpp.i
+
+CMakeFiles/untitled.dir/Days/Day9/DayNinePartOne.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/Days/Day9/DayNinePartOne.cpp.s"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Dolpix\Desktop\AdventOfCode-2024\Days\Day9\DayNinePartOne.cpp -o CMakeFiles\untitled.dir\Days\Day9\DayNinePartOne.cpp.s
+
+CMakeFiles/untitled.dir/Days/Day9/DayNinePartTwo.cpp.obj: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/Days/Day9/DayNinePartTwo.cpp.obj: C:/Users/Dolpix/Desktop/AdventOfCode-2024/Days/Day9/DayNinePartTwo.cpp
+CMakeFiles/untitled.dir/Days/Day9/DayNinePartTwo.cpp.obj: CMakeFiles/untitled.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\Dolpix\Desktop\AdventOfCode-2024\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_20) "Building CXX object CMakeFiles/untitled.dir/Days/Day9/DayNinePartTwo.cpp.obj"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/untitled.dir/Days/Day9/DayNinePartTwo.cpp.obj -MF CMakeFiles\untitled.dir\Days\Day9\DayNinePartTwo.cpp.obj.d -o CMakeFiles\untitled.dir\Days\Day9\DayNinePartTwo.cpp.obj -c C:\Users\Dolpix\Desktop\AdventOfCode-2024\Days\Day9\DayNinePartTwo.cpp
+
+CMakeFiles/untitled.dir/Days/Day9/DayNinePartTwo.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/untitled.dir/Days/Day9/DayNinePartTwo.cpp.i"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Dolpix\Desktop\AdventOfCode-2024\Days\Day9\DayNinePartTwo.cpp > CMakeFiles\untitled.dir\Days\Day9\DayNinePartTwo.cpp.i
+
+CMakeFiles/untitled.dir/Days/Day9/DayNinePartTwo.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/Days/Day9/DayNinePartTwo.cpp.s"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Dolpix\Desktop\AdventOfCode-2024\Days\Day9\DayNinePartTwo.cpp -o CMakeFiles\untitled.dir\Days\Day9\DayNinePartTwo.cpp.s
+
+CMakeFiles/untitled.dir/Days/Day10/DayTenPartOne.cpp.obj: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/Days/Day10/DayTenPartOne.cpp.obj: C:/Users/Dolpix/Desktop/AdventOfCode-2024/Days/Day10/DayTenPartOne.cpp
+CMakeFiles/untitled.dir/Days/Day10/DayTenPartOne.cpp.obj: CMakeFiles/untitled.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\Dolpix\Desktop\AdventOfCode-2024\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_21) "Building CXX object CMakeFiles/untitled.dir/Days/Day10/DayTenPartOne.cpp.obj"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/untitled.dir/Days/Day10/DayTenPartOne.cpp.obj -MF CMakeFiles\untitled.dir\Days\Day10\DayTenPartOne.cpp.obj.d -o CMakeFiles\untitled.dir\Days\Day10\DayTenPartOne.cpp.obj -c C:\Users\Dolpix\Desktop\AdventOfCode-2024\Days\Day10\DayTenPartOne.cpp
+
+CMakeFiles/untitled.dir/Days/Day10/DayTenPartOne.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/untitled.dir/Days/Day10/DayTenPartOne.cpp.i"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Dolpix\Desktop\AdventOfCode-2024\Days\Day10\DayTenPartOne.cpp > CMakeFiles\untitled.dir\Days\Day10\DayTenPartOne.cpp.i
+
+CMakeFiles/untitled.dir/Days/Day10/DayTenPartOne.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/Days/Day10/DayTenPartOne.cpp.s"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Dolpix\Desktop\AdventOfCode-2024\Days\Day10\DayTenPartOne.cpp -o CMakeFiles\untitled.dir\Days\Day10\DayTenPartOne.cpp.s
+
+CMakeFiles/untitled.dir/Days/Day10/DayTenPartTwo.cpp.obj: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/Days/Day10/DayTenPartTwo.cpp.obj: C:/Users/Dolpix/Desktop/AdventOfCode-2024/Days/Day10/DayTenPartTwo.cpp
+CMakeFiles/untitled.dir/Days/Day10/DayTenPartTwo.cpp.obj: CMakeFiles/untitled.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\Dolpix\Desktop\AdventOfCode-2024\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_22) "Building CXX object CMakeFiles/untitled.dir/Days/Day10/DayTenPartTwo.cpp.obj"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/untitled.dir/Days/Day10/DayTenPartTwo.cpp.obj -MF CMakeFiles\untitled.dir\Days\Day10\DayTenPartTwo.cpp.obj.d -o CMakeFiles\untitled.dir\Days\Day10\DayTenPartTwo.cpp.obj -c C:\Users\Dolpix\Desktop\AdventOfCode-2024\Days\Day10\DayTenPartTwo.cpp
+
+CMakeFiles/untitled.dir/Days/Day10/DayTenPartTwo.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/untitled.dir/Days/Day10/DayTenPartTwo.cpp.i"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Dolpix\Desktop\AdventOfCode-2024\Days\Day10\DayTenPartTwo.cpp > CMakeFiles\untitled.dir\Days\Day10\DayTenPartTwo.cpp.i
+
+CMakeFiles/untitled.dir/Days/Day10/DayTenPartTwo.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/Days/Day10/DayTenPartTwo.cpp.s"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Dolpix\Desktop\AdventOfCode-2024\Days\Day10\DayTenPartTwo.cpp -o CMakeFiles\untitled.dir\Days\Day10\DayTenPartTwo.cpp.s
+
+CMakeFiles/untitled.dir/Days/Day11/DayElevenPartOne.cpp.obj: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/Days/Day11/DayElevenPartOne.cpp.obj: C:/Users/Dolpix/Desktop/AdventOfCode-2024/Days/Day11/DayElevenPartOne.cpp
+CMakeFiles/untitled.dir/Days/Day11/DayElevenPartOne.cpp.obj: CMakeFiles/untitled.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\Dolpix\Desktop\AdventOfCode-2024\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_23) "Building CXX object CMakeFiles/untitled.dir/Days/Day11/DayElevenPartOne.cpp.obj"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/untitled.dir/Days/Day11/DayElevenPartOne.cpp.obj -MF CMakeFiles\untitled.dir\Days\Day11\DayElevenPartOne.cpp.obj.d -o CMakeFiles\untitled.dir\Days\Day11\DayElevenPartOne.cpp.obj -c C:\Users\Dolpix\Desktop\AdventOfCode-2024\Days\Day11\DayElevenPartOne.cpp
+
+CMakeFiles/untitled.dir/Days/Day11/DayElevenPartOne.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/untitled.dir/Days/Day11/DayElevenPartOne.cpp.i"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Dolpix\Desktop\AdventOfCode-2024\Days\Day11\DayElevenPartOne.cpp > CMakeFiles\untitled.dir\Days\Day11\DayElevenPartOne.cpp.i
+
+CMakeFiles/untitled.dir/Days/Day11/DayElevenPartOne.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/Days/Day11/DayElevenPartOne.cpp.s"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Dolpix\Desktop\AdventOfCode-2024\Days\Day11\DayElevenPartOne.cpp -o CMakeFiles\untitled.dir\Days\Day11\DayElevenPartOne.cpp.s
+
+CMakeFiles/untitled.dir/Days/Day11/DayElevenPartTwo.cpp.obj: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/Days/Day11/DayElevenPartTwo.cpp.obj: C:/Users/Dolpix/Desktop/AdventOfCode-2024/Days/Day11/DayElevenPartTwo.cpp
+CMakeFiles/untitled.dir/Days/Day11/DayElevenPartTwo.cpp.obj: CMakeFiles/untitled.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\Dolpix\Desktop\AdventOfCode-2024\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_24) "Building CXX object CMakeFiles/untitled.dir/Days/Day11/DayElevenPartTwo.cpp.obj"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/untitled.dir/Days/Day11/DayElevenPartTwo.cpp.obj -MF CMakeFiles\untitled.dir\Days\Day11\DayElevenPartTwo.cpp.obj.d -o CMakeFiles\untitled.dir\Days\Day11\DayElevenPartTwo.cpp.obj -c C:\Users\Dolpix\Desktop\AdventOfCode-2024\Days\Day11\DayElevenPartTwo.cpp
+
+CMakeFiles/untitled.dir/Days/Day11/DayElevenPartTwo.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/untitled.dir/Days/Day11/DayElevenPartTwo.cpp.i"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Dolpix\Desktop\AdventOfCode-2024\Days\Day11\DayElevenPartTwo.cpp > CMakeFiles\untitled.dir\Days\Day11\DayElevenPartTwo.cpp.i
+
+CMakeFiles/untitled.dir/Days/Day11/DayElevenPartTwo.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/Days/Day11/DayElevenPartTwo.cpp.s"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Dolpix\Desktop\AdventOfCode-2024\Days\Day11\DayElevenPartTwo.cpp -o CMakeFiles\untitled.dir\Days\Day11\DayElevenPartTwo.cpp.s
+
+CMakeFiles/untitled.dir/Days/Day12/DayTwelvePartOne.cpp.obj: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/Days/Day12/DayTwelvePartOne.cpp.obj: C:/Users/Dolpix/Desktop/AdventOfCode-2024/Days/Day12/DayTwelvePartOne.cpp
+CMakeFiles/untitled.dir/Days/Day12/DayTwelvePartOne.cpp.obj: CMakeFiles/untitled.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\Dolpix\Desktop\AdventOfCode-2024\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_25) "Building CXX object CMakeFiles/untitled.dir/Days/Day12/DayTwelvePartOne.cpp.obj"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/untitled.dir/Days/Day12/DayTwelvePartOne.cpp.obj -MF CMakeFiles\untitled.dir\Days\Day12\DayTwelvePartOne.cpp.obj.d -o CMakeFiles\untitled.dir\Days\Day12\DayTwelvePartOne.cpp.obj -c C:\Users\Dolpix\Desktop\AdventOfCode-2024\Days\Day12\DayTwelvePartOne.cpp
+
+CMakeFiles/untitled.dir/Days/Day12/DayTwelvePartOne.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/untitled.dir/Days/Day12/DayTwelvePartOne.cpp.i"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Dolpix\Desktop\AdventOfCode-2024\Days\Day12\DayTwelvePartOne.cpp > CMakeFiles\untitled.dir\Days\Day12\DayTwelvePartOne.cpp.i
+
+CMakeFiles/untitled.dir/Days/Day12/DayTwelvePartOne.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/Days/Day12/DayTwelvePartOne.cpp.s"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Dolpix\Desktop\AdventOfCode-2024\Days\Day12\DayTwelvePartOne.cpp -o CMakeFiles\untitled.dir\Days\Day12\DayTwelvePartOne.cpp.s
+
+CMakeFiles/untitled.dir/Days/Day12/DayTwelvePartTwo.cpp.obj: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/Days/Day12/DayTwelvePartTwo.cpp.obj: C:/Users/Dolpix/Desktop/AdventOfCode-2024/Days/Day12/DayTwelvePartTwo.cpp
+CMakeFiles/untitled.dir/Days/Day12/DayTwelvePartTwo.cpp.obj: CMakeFiles/untitled.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\Dolpix\Desktop\AdventOfCode-2024\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_26) "Building CXX object CMakeFiles/untitled.dir/Days/Day12/DayTwelvePartTwo.cpp.obj"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/untitled.dir/Days/Day12/DayTwelvePartTwo.cpp.obj -MF CMakeFiles\untitled.dir\Days\Day12\DayTwelvePartTwo.cpp.obj.d -o CMakeFiles\untitled.dir\Days\Day12\DayTwelvePartTwo.cpp.obj -c C:\Users\Dolpix\Desktop\AdventOfCode-2024\Days\Day12\DayTwelvePartTwo.cpp
+
+CMakeFiles/untitled.dir/Days/Day12/DayTwelvePartTwo.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/untitled.dir/Days/Day12/DayTwelvePartTwo.cpp.i"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Dolpix\Desktop\AdventOfCode-2024\Days\Day12\DayTwelvePartTwo.cpp > CMakeFiles\untitled.dir\Days\Day12\DayTwelvePartTwo.cpp.i
+
+CMakeFiles/untitled.dir/Days/Day12/DayTwelvePartTwo.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/Days/Day12/DayTwelvePartTwo.cpp.s"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Dolpix\Desktop\AdventOfCode-2024\Days\Day12\DayTwelvePartTwo.cpp -o CMakeFiles\untitled.dir\Days\Day12\DayTwelvePartTwo.cpp.s
+
+CMakeFiles/untitled.dir/Days/Day13/DayThirteenPartOne.cpp.obj: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/Days/Day13/DayThirteenPartOne.cpp.obj: C:/Users/Dolpix/Desktop/AdventOfCode-2024/Days/Day13/DayThirteenPartOne.cpp
+CMakeFiles/untitled.dir/Days/Day13/DayThirteenPartOne.cpp.obj: CMakeFiles/untitled.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\Dolpix\Desktop\AdventOfCode-2024\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_27) "Building CXX object CMakeFiles/untitled.dir/Days/Day13/DayThirteenPartOne.cpp.obj"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/untitled.dir/Days/Day13/DayThirteenPartOne.cpp.obj -MF CMakeFiles\untitled.dir\Days\Day13\DayThirteenPartOne.cpp.obj.d -o CMakeFiles\untitled.dir\Days\Day13\DayThirteenPartOne.cpp.obj -c C:\Users\Dolpix\Desktop\AdventOfCode-2024\Days\Day13\DayThirteenPartOne.cpp
+
+CMakeFiles/untitled.dir/Days/Day13/DayThirteenPartOne.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/untitled.dir/Days/Day13/DayThirteenPartOne.cpp.i"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Dolpix\Desktop\AdventOfCode-2024\Days\Day13\DayThirteenPartOne.cpp > CMakeFiles\untitled.dir\Days\Day13\DayThirteenPartOne.cpp.i
+
+CMakeFiles/untitled.dir/Days/Day13/DayThirteenPartOne.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/Days/Day13/DayThirteenPartOne.cpp.s"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Dolpix\Desktop\AdventOfCode-2024\Days\Day13\DayThirteenPartOne.cpp -o CMakeFiles\untitled.dir\Days\Day13\DayThirteenPartOne.cpp.s
+
+CMakeFiles/untitled.dir/Days/Day13/DayThirteenPartTwo.cpp.obj: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/Days/Day13/DayThirteenPartTwo.cpp.obj: C:/Users/Dolpix/Desktop/AdventOfCode-2024/Days/Day13/DayThirteenPartTwo.cpp
+CMakeFiles/untitled.dir/Days/Day13/DayThirteenPartTwo.cpp.obj: CMakeFiles/untitled.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\Dolpix\Desktop\AdventOfCode-2024\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_28) "Building CXX object CMakeFiles/untitled.dir/Days/Day13/DayThirteenPartTwo.cpp.obj"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/untitled.dir/Days/Day13/DayThirteenPartTwo.cpp.obj -MF CMakeFiles\untitled.dir\Days\Day13\DayThirteenPartTwo.cpp.obj.d -o CMakeFiles\untitled.dir\Days\Day13\DayThirteenPartTwo.cpp.obj -c C:\Users\Dolpix\Desktop\AdventOfCode-2024\Days\Day13\DayThirteenPartTwo.cpp
+
+CMakeFiles/untitled.dir/Days/Day13/DayThirteenPartTwo.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/untitled.dir/Days/Day13/DayThirteenPartTwo.cpp.i"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Dolpix\Desktop\AdventOfCode-2024\Days\Day13\DayThirteenPartTwo.cpp > CMakeFiles\untitled.dir\Days\Day13\DayThirteenPartTwo.cpp.i
+
+CMakeFiles/untitled.dir/Days/Day13/DayThirteenPartTwo.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/Days/Day13/DayThirteenPartTwo.cpp.s"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Dolpix\Desktop\AdventOfCode-2024\Days\Day13\DayThirteenPartTwo.cpp -o CMakeFiles\untitled.dir\Days\Day13\DayThirteenPartTwo.cpp.s
+
+CMakeFiles/untitled.dir/Days/Day14/DayFourteenPartOne.cpp.obj: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/Days/Day14/DayFourteenPartOne.cpp.obj: C:/Users/Dolpix/Desktop/AdventOfCode-2024/Days/Day14/DayFourteenPartOne.cpp
+CMakeFiles/untitled.dir/Days/Day14/DayFourteenPartOne.cpp.obj: CMakeFiles/untitled.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\Dolpix\Desktop\AdventOfCode-2024\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_29) "Building CXX object CMakeFiles/untitled.dir/Days/Day14/DayFourteenPartOne.cpp.obj"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/untitled.dir/Days/Day14/DayFourteenPartOne.cpp.obj -MF CMakeFiles\untitled.dir\Days\Day14\DayFourteenPartOne.cpp.obj.d -o CMakeFiles\untitled.dir\Days\Day14\DayFourteenPartOne.cpp.obj -c C:\Users\Dolpix\Desktop\AdventOfCode-2024\Days\Day14\DayFourteenPartOne.cpp
+
+CMakeFiles/untitled.dir/Days/Day14/DayFourteenPartOne.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/untitled.dir/Days/Day14/DayFourteenPartOne.cpp.i"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Dolpix\Desktop\AdventOfCode-2024\Days\Day14\DayFourteenPartOne.cpp > CMakeFiles\untitled.dir\Days\Day14\DayFourteenPartOne.cpp.i
+
+CMakeFiles/untitled.dir/Days/Day14/DayFourteenPartOne.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/Days/Day14/DayFourteenPartOne.cpp.s"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Dolpix\Desktop\AdventOfCode-2024\Days\Day14\DayFourteenPartOne.cpp -o CMakeFiles\untitled.dir\Days\Day14\DayFourteenPartOne.cpp.s
+
+CMakeFiles/untitled.dir/Days/Day14/DayFourteenPartTwo.cpp.obj: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/Days/Day14/DayFourteenPartTwo.cpp.obj: C:/Users/Dolpix/Desktop/AdventOfCode-2024/Days/Day14/DayFourteenPartTwo.cpp
+CMakeFiles/untitled.dir/Days/Day14/DayFourteenPartTwo.cpp.obj: CMakeFiles/untitled.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\Dolpix\Desktop\AdventOfCode-2024\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_30) "Building CXX object CMakeFiles/untitled.dir/Days/Day14/DayFourteenPartTwo.cpp.obj"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/untitled.dir/Days/Day14/DayFourteenPartTwo.cpp.obj -MF CMakeFiles\untitled.dir\Days\Day14\DayFourteenPartTwo.cpp.obj.d -o CMakeFiles\untitled.dir\Days\Day14\DayFourteenPartTwo.cpp.obj -c C:\Users\Dolpix\Desktop\AdventOfCode-2024\Days\Day14\DayFourteenPartTwo.cpp
+
+CMakeFiles/untitled.dir/Days/Day14/DayFourteenPartTwo.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/untitled.dir/Days/Day14/DayFourteenPartTwo.cpp.i"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Dolpix\Desktop\AdventOfCode-2024\Days\Day14\DayFourteenPartTwo.cpp > CMakeFiles\untitled.dir\Days\Day14\DayFourteenPartTwo.cpp.i
+
+CMakeFiles/untitled.dir/Days/Day14/DayFourteenPartTwo.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/Days/Day14/DayFourteenPartTwo.cpp.s"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Dolpix\Desktop\AdventOfCode-2024\Days\Day14\DayFourteenPartTwo.cpp -o CMakeFiles\untitled.dir\Days\Day14\DayFourteenPartTwo.cpp.s
+
+CMakeFiles/untitled.dir/Days/Day15/DayFifteenPartOne.cpp.obj: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/Days/Day15/DayFifteenPartOne.cpp.obj: C:/Users/Dolpix/Desktop/AdventOfCode-2024/Days/Day15/DayFifteenPartOne.cpp
+CMakeFiles/untitled.dir/Days/Day15/DayFifteenPartOne.cpp.obj: CMakeFiles/untitled.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\Dolpix\Desktop\AdventOfCode-2024\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_31) "Building CXX object CMakeFiles/untitled.dir/Days/Day15/DayFifteenPartOne.cpp.obj"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/untitled.dir/Days/Day15/DayFifteenPartOne.cpp.obj -MF CMakeFiles\untitled.dir\Days\Day15\DayFifteenPartOne.cpp.obj.d -o CMakeFiles\untitled.dir\Days\Day15\DayFifteenPartOne.cpp.obj -c C:\Users\Dolpix\Desktop\AdventOfCode-2024\Days\Day15\DayFifteenPartOne.cpp
+
+CMakeFiles/untitled.dir/Days/Day15/DayFifteenPartOne.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/untitled.dir/Days/Day15/DayFifteenPartOne.cpp.i"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Dolpix\Desktop\AdventOfCode-2024\Days\Day15\DayFifteenPartOne.cpp > CMakeFiles\untitled.dir\Days\Day15\DayFifteenPartOne.cpp.i
+
+CMakeFiles/untitled.dir/Days/Day15/DayFifteenPartOne.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/Days/Day15/DayFifteenPartOne.cpp.s"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Dolpix\Desktop\AdventOfCode-2024\Days\Day15\DayFifteenPartOne.cpp -o CMakeFiles\untitled.dir\Days\Day15\DayFifteenPartOne.cpp.s
+
+CMakeFiles/untitled.dir/Days/Day15/DayFifteenPartTwo.cpp.obj: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/Days/Day15/DayFifteenPartTwo.cpp.obj: C:/Users/Dolpix/Desktop/AdventOfCode-2024/Days/Day15/DayFifteenPartTwo.cpp
+CMakeFiles/untitled.dir/Days/Day15/DayFifteenPartTwo.cpp.obj: CMakeFiles/untitled.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\Dolpix\Desktop\AdventOfCode-2024\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_32) "Building CXX object CMakeFiles/untitled.dir/Days/Day15/DayFifteenPartTwo.cpp.obj"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/untitled.dir/Days/Day15/DayFifteenPartTwo.cpp.obj -MF CMakeFiles\untitled.dir\Days\Day15\DayFifteenPartTwo.cpp.obj.d -o CMakeFiles\untitled.dir\Days\Day15\DayFifteenPartTwo.cpp.obj -c C:\Users\Dolpix\Desktop\AdventOfCode-2024\Days\Day15\DayFifteenPartTwo.cpp
+
+CMakeFiles/untitled.dir/Days/Day15/DayFifteenPartTwo.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/untitled.dir/Days/Day15/DayFifteenPartTwo.cpp.i"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Dolpix\Desktop\AdventOfCode-2024\Days\Day15\DayFifteenPartTwo.cpp > CMakeFiles\untitled.dir\Days\Day15\DayFifteenPartTwo.cpp.i
+
+CMakeFiles/untitled.dir/Days/Day15/DayFifteenPartTwo.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/Days/Day15/DayFifteenPartTwo.cpp.s"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Dolpix\Desktop\AdventOfCode-2024\Days\Day15\DayFifteenPartTwo.cpp -o CMakeFiles\untitled.dir\Days\Day15\DayFifteenPartTwo.cpp.s
+
+CMakeFiles/untitled.dir/Days/Day16/DaySixteenPartOne.cpp.obj: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/Days/Day16/DaySixteenPartOne.cpp.obj: C:/Users/Dolpix/Desktop/AdventOfCode-2024/Days/Day16/DaySixteenPartOne.cpp
+CMakeFiles/untitled.dir/Days/Day16/DaySixteenPartOne.cpp.obj: CMakeFiles/untitled.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\Dolpix\Desktop\AdventOfCode-2024\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_33) "Building CXX object CMakeFiles/untitled.dir/Days/Day16/DaySixteenPartOne.cpp.obj"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/untitled.dir/Days/Day16/DaySixteenPartOne.cpp.obj -MF CMakeFiles\untitled.dir\Days\Day16\DaySixteenPartOne.cpp.obj.d -o CMakeFiles\untitled.dir\Days\Day16\DaySixteenPartOne.cpp.obj -c C:\Users\Dolpix\Desktop\AdventOfCode-2024\Days\Day16\DaySixteenPartOne.cpp
+
+CMakeFiles/untitled.dir/Days/Day16/DaySixteenPartOne.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/untitled.dir/Days/Day16/DaySixteenPartOne.cpp.i"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Dolpix\Desktop\AdventOfCode-2024\Days\Day16\DaySixteenPartOne.cpp > CMakeFiles\untitled.dir\Days\Day16\DaySixteenPartOne.cpp.i
+
+CMakeFiles/untitled.dir/Days/Day16/DaySixteenPartOne.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/Days/Day16/DaySixteenPartOne.cpp.s"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Dolpix\Desktop\AdventOfCode-2024\Days\Day16\DaySixteenPartOne.cpp -o CMakeFiles\untitled.dir\Days\Day16\DaySixteenPartOne.cpp.s
+
+CMakeFiles/untitled.dir/Days/Day16/DaySixteenPartTwo.cpp.obj: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/Days/Day16/DaySixteenPartTwo.cpp.obj: C:/Users/Dolpix/Desktop/AdventOfCode-2024/Days/Day16/DaySixteenPartTwo.cpp
+CMakeFiles/untitled.dir/Days/Day16/DaySixteenPartTwo.cpp.obj: CMakeFiles/untitled.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\Dolpix\Desktop\AdventOfCode-2024\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_34) "Building CXX object CMakeFiles/untitled.dir/Days/Day16/DaySixteenPartTwo.cpp.obj"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/untitled.dir/Days/Day16/DaySixteenPartTwo.cpp.obj -MF CMakeFiles\untitled.dir\Days\Day16\DaySixteenPartTwo.cpp.obj.d -o CMakeFiles\untitled.dir\Days\Day16\DaySixteenPartTwo.cpp.obj -c C:\Users\Dolpix\Desktop\AdventOfCode-2024\Days\Day16\DaySixteenPartTwo.cpp
+
+CMakeFiles/untitled.dir/Days/Day16/DaySixteenPartTwo.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/untitled.dir/Days/Day16/DaySixteenPartTwo.cpp.i"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Dolpix\Desktop\AdventOfCode-2024\Days\Day16\DaySixteenPartTwo.cpp > CMakeFiles\untitled.dir\Days\Day16\DaySixteenPartTwo.cpp.i
+
+CMakeFiles/untitled.dir/Days/Day16/DaySixteenPartTwo.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/Days/Day16/DaySixteenPartTwo.cpp.s"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Dolpix\Desktop\AdventOfCode-2024\Days\Day16\DaySixteenPartTwo.cpp -o CMakeFiles\untitled.dir\Days\Day16\DaySixteenPartTwo.cpp.s
+
+CMakeFiles/untitled.dir/Days/Day17/DaySeventeenPartOne.cpp.obj: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/Days/Day17/DaySeventeenPartOne.cpp.obj: C:/Users/Dolpix/Desktop/AdventOfCode-2024/Days/Day17/DaySeventeenPartOne.cpp
+CMakeFiles/untitled.dir/Days/Day17/DaySeventeenPartOne.cpp.obj: CMakeFiles/untitled.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\Dolpix\Desktop\AdventOfCode-2024\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_35) "Building CXX object CMakeFiles/untitled.dir/Days/Day17/DaySeventeenPartOne.cpp.obj"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/untitled.dir/Days/Day17/DaySeventeenPartOne.cpp.obj -MF CMakeFiles\untitled.dir\Days\Day17\DaySeventeenPartOne.cpp.obj.d -o CMakeFiles\untitled.dir\Days\Day17\DaySeventeenPartOne.cpp.obj -c C:\Users\Dolpix\Desktop\AdventOfCode-2024\Days\Day17\DaySeventeenPartOne.cpp
+
+CMakeFiles/untitled.dir/Days/Day17/DaySeventeenPartOne.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/untitled.dir/Days/Day17/DaySeventeenPartOne.cpp.i"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Dolpix\Desktop\AdventOfCode-2024\Days\Day17\DaySeventeenPartOne.cpp > CMakeFiles\untitled.dir\Days\Day17\DaySeventeenPartOne.cpp.i
+
+CMakeFiles/untitled.dir/Days/Day17/DaySeventeenPartOne.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/Days/Day17/DaySeventeenPartOne.cpp.s"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Dolpix\Desktop\AdventOfCode-2024\Days\Day17\DaySeventeenPartOne.cpp -o CMakeFiles\untitled.dir\Days\Day17\DaySeventeenPartOne.cpp.s
+
+CMakeFiles/untitled.dir/Days/Day17/DaySeventeenPartTwo.cpp.obj: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/Days/Day17/DaySeventeenPartTwo.cpp.obj: C:/Users/Dolpix/Desktop/AdventOfCode-2024/Days/Day17/DaySeventeenPartTwo.cpp
+CMakeFiles/untitled.dir/Days/Day17/DaySeventeenPartTwo.cpp.obj: CMakeFiles/untitled.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\Dolpix\Desktop\AdventOfCode-2024\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_36) "Building CXX object CMakeFiles/untitled.dir/Days/Day17/DaySeventeenPartTwo.cpp.obj"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/untitled.dir/Days/Day17/DaySeventeenPartTwo.cpp.obj -MF CMakeFiles\untitled.dir\Days\Day17\DaySeventeenPartTwo.cpp.obj.d -o CMakeFiles\untitled.dir\Days\Day17\DaySeventeenPartTwo.cpp.obj -c C:\Users\Dolpix\Desktop\AdventOfCode-2024\Days\Day17\DaySeventeenPartTwo.cpp
+
+CMakeFiles/untitled.dir/Days/Day17/DaySeventeenPartTwo.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/untitled.dir/Days/Day17/DaySeventeenPartTwo.cpp.i"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Dolpix\Desktop\AdventOfCode-2024\Days\Day17\DaySeventeenPartTwo.cpp > CMakeFiles\untitled.dir\Days\Day17\DaySeventeenPartTwo.cpp.i
+
+CMakeFiles/untitled.dir/Days/Day17/DaySeventeenPartTwo.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/Days/Day17/DaySeventeenPartTwo.cpp.s"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Dolpix\Desktop\AdventOfCode-2024\Days\Day17\DaySeventeenPartTwo.cpp -o CMakeFiles\untitled.dir\Days\Day17\DaySeventeenPartTwo.cpp.s
+
+CMakeFiles/untitled.dir/Days/Day18/DayEighteenPartOne.cpp.obj: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/Days/Day18/DayEighteenPartOne.cpp.obj: C:/Users/Dolpix/Desktop/AdventOfCode-2024/Days/Day18/DayEighteenPartOne.cpp
+CMakeFiles/untitled.dir/Days/Day18/DayEighteenPartOne.cpp.obj: CMakeFiles/untitled.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\Dolpix\Desktop\AdventOfCode-2024\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_37) "Building CXX object CMakeFiles/untitled.dir/Days/Day18/DayEighteenPartOne.cpp.obj"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/untitled.dir/Days/Day18/DayEighteenPartOne.cpp.obj -MF CMakeFiles\untitled.dir\Days\Day18\DayEighteenPartOne.cpp.obj.d -o CMakeFiles\untitled.dir\Days\Day18\DayEighteenPartOne.cpp.obj -c C:\Users\Dolpix\Desktop\AdventOfCode-2024\Days\Day18\DayEighteenPartOne.cpp
+
+CMakeFiles/untitled.dir/Days/Day18/DayEighteenPartOne.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/untitled.dir/Days/Day18/DayEighteenPartOne.cpp.i"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Dolpix\Desktop\AdventOfCode-2024\Days\Day18\DayEighteenPartOne.cpp > CMakeFiles\untitled.dir\Days\Day18\DayEighteenPartOne.cpp.i
+
+CMakeFiles/untitled.dir/Days/Day18/DayEighteenPartOne.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/Days/Day18/DayEighteenPartOne.cpp.s"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Dolpix\Desktop\AdventOfCode-2024\Days\Day18\DayEighteenPartOne.cpp -o CMakeFiles\untitled.dir\Days\Day18\DayEighteenPartOne.cpp.s
+
+CMakeFiles/untitled.dir/Days/Day18/DayEighteenPartTwo.cpp.obj: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/Days/Day18/DayEighteenPartTwo.cpp.obj: C:/Users/Dolpix/Desktop/AdventOfCode-2024/Days/Day18/DayEighteenPartTwo.cpp
+CMakeFiles/untitled.dir/Days/Day18/DayEighteenPartTwo.cpp.obj: CMakeFiles/untitled.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\Dolpix\Desktop\AdventOfCode-2024\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_38) "Building CXX object CMakeFiles/untitled.dir/Days/Day18/DayEighteenPartTwo.cpp.obj"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/untitled.dir/Days/Day18/DayEighteenPartTwo.cpp.obj -MF CMakeFiles\untitled.dir\Days\Day18\DayEighteenPartTwo.cpp.obj.d -o CMakeFiles\untitled.dir\Days\Day18\DayEighteenPartTwo.cpp.obj -c C:\Users\Dolpix\Desktop\AdventOfCode-2024\Days\Day18\DayEighteenPartTwo.cpp
+
+CMakeFiles/untitled.dir/Days/Day18/DayEighteenPartTwo.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/untitled.dir/Days/Day18/DayEighteenPartTwo.cpp.i"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Dolpix\Desktop\AdventOfCode-2024\Days\Day18\DayEighteenPartTwo.cpp > CMakeFiles\untitled.dir\Days\Day18\DayEighteenPartTwo.cpp.i
+
+CMakeFiles/untitled.dir/Days/Day18/DayEighteenPartTwo.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/Days/Day18/DayEighteenPartTwo.cpp.s"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Dolpix\Desktop\AdventOfCode-2024\Days\Day18\DayEighteenPartTwo.cpp -o CMakeFiles\untitled.dir\Days\Day18\DayEighteenPartTwo.cpp.s
+
+CMakeFiles/untitled.dir/Days/Day19/DayNineteenPartOne.cpp.obj: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/Days/Day19/DayNineteenPartOne.cpp.obj: C:/Users/Dolpix/Desktop/AdventOfCode-2024/Days/Day19/DayNineteenPartOne.cpp
+CMakeFiles/untitled.dir/Days/Day19/DayNineteenPartOne.cpp.obj: CMakeFiles/untitled.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\Dolpix\Desktop\AdventOfCode-2024\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_39) "Building CXX object CMakeFiles/untitled.dir/Days/Day19/DayNineteenPartOne.cpp.obj"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/untitled.dir/Days/Day19/DayNineteenPartOne.cpp.obj -MF CMakeFiles\untitled.dir\Days\Day19\DayNineteenPartOne.cpp.obj.d -o CMakeFiles\untitled.dir\Days\Day19\DayNineteenPartOne.cpp.obj -c C:\Users\Dolpix\Desktop\AdventOfCode-2024\Days\Day19\DayNineteenPartOne.cpp
+
+CMakeFiles/untitled.dir/Days/Day19/DayNineteenPartOne.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/untitled.dir/Days/Day19/DayNineteenPartOne.cpp.i"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Dolpix\Desktop\AdventOfCode-2024\Days\Day19\DayNineteenPartOne.cpp > CMakeFiles\untitled.dir\Days\Day19\DayNineteenPartOne.cpp.i
+
+CMakeFiles/untitled.dir/Days/Day19/DayNineteenPartOne.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/Days/Day19/DayNineteenPartOne.cpp.s"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Dolpix\Desktop\AdventOfCode-2024\Days\Day19\DayNineteenPartOne.cpp -o CMakeFiles\untitled.dir\Days\Day19\DayNineteenPartOne.cpp.s
+
+CMakeFiles/untitled.dir/Days/Day19/DayNineteenPartTwo.cpp.obj: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/Days/Day19/DayNineteenPartTwo.cpp.obj: C:/Users/Dolpix/Desktop/AdventOfCode-2024/Days/Day19/DayNineteenPartTwo.cpp
+CMakeFiles/untitled.dir/Days/Day19/DayNineteenPartTwo.cpp.obj: CMakeFiles/untitled.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\Dolpix\Desktop\AdventOfCode-2024\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_40) "Building CXX object CMakeFiles/untitled.dir/Days/Day19/DayNineteenPartTwo.cpp.obj"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/untitled.dir/Days/Day19/DayNineteenPartTwo.cpp.obj -MF CMakeFiles\untitled.dir\Days\Day19\DayNineteenPartTwo.cpp.obj.d -o CMakeFiles\untitled.dir\Days\Day19\DayNineteenPartTwo.cpp.obj -c C:\Users\Dolpix\Desktop\AdventOfCode-2024\Days\Day19\DayNineteenPartTwo.cpp
+
+CMakeFiles/untitled.dir/Days/Day19/DayNineteenPartTwo.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/untitled.dir/Days/Day19/DayNineteenPartTwo.cpp.i"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Dolpix\Desktop\AdventOfCode-2024\Days\Day19\DayNineteenPartTwo.cpp > CMakeFiles\untitled.dir\Days\Day19\DayNineteenPartTwo.cpp.i
+
+CMakeFiles/untitled.dir/Days/Day19/DayNineteenPartTwo.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/Days/Day19/DayNineteenPartTwo.cpp.s"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Dolpix\Desktop\AdventOfCode-2024\Days\Day19\DayNineteenPartTwo.cpp -o CMakeFiles\untitled.dir\Days\Day19\DayNineteenPartTwo.cpp.s
+
+CMakeFiles/untitled.dir/Days/Day20/DayTwentyPartOne.cpp.obj: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/Days/Day20/DayTwentyPartOne.cpp.obj: C:/Users/Dolpix/Desktop/AdventOfCode-2024/Days/Day20/DayTwentyPartOne.cpp
+CMakeFiles/untitled.dir/Days/Day20/DayTwentyPartOne.cpp.obj: CMakeFiles/untitled.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\Dolpix\Desktop\AdventOfCode-2024\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_41) "Building CXX object CMakeFiles/untitled.dir/Days/Day20/DayTwentyPartOne.cpp.obj"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/untitled.dir/Days/Day20/DayTwentyPartOne.cpp.obj -MF CMakeFiles\untitled.dir\Days\Day20\DayTwentyPartOne.cpp.obj.d -o CMakeFiles\untitled.dir\Days\Day20\DayTwentyPartOne.cpp.obj -c C:\Users\Dolpix\Desktop\AdventOfCode-2024\Days\Day20\DayTwentyPartOne.cpp
+
+CMakeFiles/untitled.dir/Days/Day20/DayTwentyPartOne.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/untitled.dir/Days/Day20/DayTwentyPartOne.cpp.i"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Dolpix\Desktop\AdventOfCode-2024\Days\Day20\DayTwentyPartOne.cpp > CMakeFiles\untitled.dir\Days\Day20\DayTwentyPartOne.cpp.i
+
+CMakeFiles/untitled.dir/Days/Day20/DayTwentyPartOne.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/Days/Day20/DayTwentyPartOne.cpp.s"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Dolpix\Desktop\AdventOfCode-2024\Days\Day20\DayTwentyPartOne.cpp -o CMakeFiles\untitled.dir\Days\Day20\DayTwentyPartOne.cpp.s
+
+CMakeFiles/untitled.dir/Days/Day20/DayTwentyPartTwo.cpp.obj: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/Days/Day20/DayTwentyPartTwo.cpp.obj: C:/Users/Dolpix/Desktop/AdventOfCode-2024/Days/Day20/DayTwentyPartTwo.cpp
+CMakeFiles/untitled.dir/Days/Day20/DayTwentyPartTwo.cpp.obj: CMakeFiles/untitled.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\Dolpix\Desktop\AdventOfCode-2024\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_42) "Building CXX object CMakeFiles/untitled.dir/Days/Day20/DayTwentyPartTwo.cpp.obj"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/untitled.dir/Days/Day20/DayTwentyPartTwo.cpp.obj -MF CMakeFiles\untitled.dir\Days\Day20\DayTwentyPartTwo.cpp.obj.d -o CMakeFiles\untitled.dir\Days\Day20\DayTwentyPartTwo.cpp.obj -c C:\Users\Dolpix\Desktop\AdventOfCode-2024\Days\Day20\DayTwentyPartTwo.cpp
+
+CMakeFiles/untitled.dir/Days/Day20/DayTwentyPartTwo.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/untitled.dir/Days/Day20/DayTwentyPartTwo.cpp.i"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Dolpix\Desktop\AdventOfCode-2024\Days\Day20\DayTwentyPartTwo.cpp > CMakeFiles\untitled.dir\Days\Day20\DayTwentyPartTwo.cpp.i
+
+CMakeFiles/untitled.dir/Days/Day20/DayTwentyPartTwo.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/Days/Day20/DayTwentyPartTwo.cpp.s"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Dolpix\Desktop\AdventOfCode-2024\Days\Day20\DayTwentyPartTwo.cpp -o CMakeFiles\untitled.dir\Days\Day20\DayTwentyPartTwo.cpp.s
+
+CMakeFiles/untitled.dir/Days/Day21/DayTwentyOnePartOne.cpp.obj: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/Days/Day21/DayTwentyOnePartOne.cpp.obj: C:/Users/Dolpix/Desktop/AdventOfCode-2024/Days/Day21/DayTwentyOnePartOne.cpp
+CMakeFiles/untitled.dir/Days/Day21/DayTwentyOnePartOne.cpp.obj: CMakeFiles/untitled.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\Dolpix\Desktop\AdventOfCode-2024\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_43) "Building CXX object CMakeFiles/untitled.dir/Days/Day21/DayTwentyOnePartOne.cpp.obj"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/untitled.dir/Days/Day21/DayTwentyOnePartOne.cpp.obj -MF CMakeFiles\untitled.dir\Days\Day21\DayTwentyOnePartOne.cpp.obj.d -o CMakeFiles\untitled.dir\Days\Day21\DayTwentyOnePartOne.cpp.obj -c C:\Users\Dolpix\Desktop\AdventOfCode-2024\Days\Day21\DayTwentyOnePartOne.cpp
+
+CMakeFiles/untitled.dir/Days/Day21/DayTwentyOnePartOne.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/untitled.dir/Days/Day21/DayTwentyOnePartOne.cpp.i"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Dolpix\Desktop\AdventOfCode-2024\Days\Day21\DayTwentyOnePartOne.cpp > CMakeFiles\untitled.dir\Days\Day21\DayTwentyOnePartOne.cpp.i
+
+CMakeFiles/untitled.dir/Days/Day21/DayTwentyOnePartOne.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/Days/Day21/DayTwentyOnePartOne.cpp.s"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Dolpix\Desktop\AdventOfCode-2024\Days\Day21\DayTwentyOnePartOne.cpp -o CMakeFiles\untitled.dir\Days\Day21\DayTwentyOnePartOne.cpp.s
+
+CMakeFiles/untitled.dir/Days/Day21/DayTwentyOnePartTwo.cpp.obj: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/Days/Day21/DayTwentyOnePartTwo.cpp.obj: C:/Users/Dolpix/Desktop/AdventOfCode-2024/Days/Day21/DayTwentyOnePartTwo.cpp
+CMakeFiles/untitled.dir/Days/Day21/DayTwentyOnePartTwo.cpp.obj: CMakeFiles/untitled.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\Dolpix\Desktop\AdventOfCode-2024\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_44) "Building CXX object CMakeFiles/untitled.dir/Days/Day21/DayTwentyOnePartTwo.cpp.obj"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/untitled.dir/Days/Day21/DayTwentyOnePartTwo.cpp.obj -MF CMakeFiles\untitled.dir\Days\Day21\DayTwentyOnePartTwo.cpp.obj.d -o CMakeFiles\untitled.dir\Days\Day21\DayTwentyOnePartTwo.cpp.obj -c C:\Users\Dolpix\Desktop\AdventOfCode-2024\Days\Day21\DayTwentyOnePartTwo.cpp
+
+CMakeFiles/untitled.dir/Days/Day21/DayTwentyOnePartTwo.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/untitled.dir/Days/Day21/DayTwentyOnePartTwo.cpp.i"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Dolpix\Desktop\AdventOfCode-2024\Days\Day21\DayTwentyOnePartTwo.cpp > CMakeFiles\untitled.dir\Days\Day21\DayTwentyOnePartTwo.cpp.i
+
+CMakeFiles/untitled.dir/Days/Day21/DayTwentyOnePartTwo.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/Days/Day21/DayTwentyOnePartTwo.cpp.s"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Dolpix\Desktop\AdventOfCode-2024\Days\Day21\DayTwentyOnePartTwo.cpp -o CMakeFiles\untitled.dir\Days\Day21\DayTwentyOnePartTwo.cpp.s
+
+CMakeFiles/untitled.dir/Days/Day22/DayTwentyTwoPartOne.cpp.obj: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/Days/Day22/DayTwentyTwoPartOne.cpp.obj: C:/Users/Dolpix/Desktop/AdventOfCode-2024/Days/Day22/DayTwentyTwoPartOne.cpp
+CMakeFiles/untitled.dir/Days/Day22/DayTwentyTwoPartOne.cpp.obj: CMakeFiles/untitled.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\Dolpix\Desktop\AdventOfCode-2024\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_45) "Building CXX object CMakeFiles/untitled.dir/Days/Day22/DayTwentyTwoPartOne.cpp.obj"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/untitled.dir/Days/Day22/DayTwentyTwoPartOne.cpp.obj -MF CMakeFiles\untitled.dir\Days\Day22\DayTwentyTwoPartOne.cpp.obj.d -o CMakeFiles\untitled.dir\Days\Day22\DayTwentyTwoPartOne.cpp.obj -c C:\Users\Dolpix\Desktop\AdventOfCode-2024\Days\Day22\DayTwentyTwoPartOne.cpp
+
+CMakeFiles/untitled.dir/Days/Day22/DayTwentyTwoPartOne.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/untitled.dir/Days/Day22/DayTwentyTwoPartOne.cpp.i"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Dolpix\Desktop\AdventOfCode-2024\Days\Day22\DayTwentyTwoPartOne.cpp > CMakeFiles\untitled.dir\Days\Day22\DayTwentyTwoPartOne.cpp.i
+
+CMakeFiles/untitled.dir/Days/Day22/DayTwentyTwoPartOne.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/Days/Day22/DayTwentyTwoPartOne.cpp.s"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Dolpix\Desktop\AdventOfCode-2024\Days\Day22\DayTwentyTwoPartOne.cpp -o CMakeFiles\untitled.dir\Days\Day22\DayTwentyTwoPartOne.cpp.s
+
+CMakeFiles/untitled.dir/Days/Day22/DayTwentyTwoPartTwo.cpp.obj: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/Days/Day22/DayTwentyTwoPartTwo.cpp.obj: C:/Users/Dolpix/Desktop/AdventOfCode-2024/Days/Day22/DayTwentyTwoPartTwo.cpp
+CMakeFiles/untitled.dir/Days/Day22/DayTwentyTwoPartTwo.cpp.obj: CMakeFiles/untitled.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\Dolpix\Desktop\AdventOfCode-2024\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_46) "Building CXX object CMakeFiles/untitled.dir/Days/Day22/DayTwentyTwoPartTwo.cpp.obj"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/untitled.dir/Days/Day22/DayTwentyTwoPartTwo.cpp.obj -MF CMakeFiles\untitled.dir\Days\Day22\DayTwentyTwoPartTwo.cpp.obj.d -o CMakeFiles\untitled.dir\Days\Day22\DayTwentyTwoPartTwo.cpp.obj -c C:\Users\Dolpix\Desktop\AdventOfCode-2024\Days\Day22\DayTwentyTwoPartTwo.cpp
+
+CMakeFiles/untitled.dir/Days/Day22/DayTwentyTwoPartTwo.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/untitled.dir/Days/Day22/DayTwentyTwoPartTwo.cpp.i"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Dolpix\Desktop\AdventOfCode-2024\Days\Day22\DayTwentyTwoPartTwo.cpp > CMakeFiles\untitled.dir\Days\Day22\DayTwentyTwoPartTwo.cpp.i
+
+CMakeFiles/untitled.dir/Days/Day22/DayTwentyTwoPartTwo.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/Days/Day22/DayTwentyTwoPartTwo.cpp.s"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Dolpix\Desktop\AdventOfCode-2024\Days\Day22\DayTwentyTwoPartTwo.cpp -o CMakeFiles\untitled.dir\Days\Day22\DayTwentyTwoPartTwo.cpp.s
+
+CMakeFiles/untitled.dir/Days/Day23/DayTwentyThreePartOne.cpp.obj: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/Days/Day23/DayTwentyThreePartOne.cpp.obj: C:/Users/Dolpix/Desktop/AdventOfCode-2024/Days/Day23/DayTwentyThreePartOne.cpp
+CMakeFiles/untitled.dir/Days/Day23/DayTwentyThreePartOne.cpp.obj: CMakeFiles/untitled.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\Dolpix\Desktop\AdventOfCode-2024\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_47) "Building CXX object CMakeFiles/untitled.dir/Days/Day23/DayTwentyThreePartOne.cpp.obj"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/untitled.dir/Days/Day23/DayTwentyThreePartOne.cpp.obj -MF CMakeFiles\untitled.dir\Days\Day23\DayTwentyThreePartOne.cpp.obj.d -o CMakeFiles\untitled.dir\Days\Day23\DayTwentyThreePartOne.cpp.obj -c C:\Users\Dolpix\Desktop\AdventOfCode-2024\Days\Day23\DayTwentyThreePartOne.cpp
+
+CMakeFiles/untitled.dir/Days/Day23/DayTwentyThreePartOne.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/untitled.dir/Days/Day23/DayTwentyThreePartOne.cpp.i"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Dolpix\Desktop\AdventOfCode-2024\Days\Day23\DayTwentyThreePartOne.cpp > CMakeFiles\untitled.dir\Days\Day23\DayTwentyThreePartOne.cpp.i
+
+CMakeFiles/untitled.dir/Days/Day23/DayTwentyThreePartOne.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/Days/Day23/DayTwentyThreePartOne.cpp.s"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Dolpix\Desktop\AdventOfCode-2024\Days\Day23\DayTwentyThreePartOne.cpp -o CMakeFiles\untitled.dir\Days\Day23\DayTwentyThreePartOne.cpp.s
+
+CMakeFiles/untitled.dir/Days/Day23/DayTwentyThreePartTwo.cpp.obj: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/Days/Day23/DayTwentyThreePartTwo.cpp.obj: C:/Users/Dolpix/Desktop/AdventOfCode-2024/Days/Day23/DayTwentyThreePartTwo.cpp
+CMakeFiles/untitled.dir/Days/Day23/DayTwentyThreePartTwo.cpp.obj: CMakeFiles/untitled.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\Dolpix\Desktop\AdventOfCode-2024\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_48) "Building CXX object CMakeFiles/untitled.dir/Days/Day23/DayTwentyThreePartTwo.cpp.obj"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/untitled.dir/Days/Day23/DayTwentyThreePartTwo.cpp.obj -MF CMakeFiles\untitled.dir\Days\Day23\DayTwentyThreePartTwo.cpp.obj.d -o CMakeFiles\untitled.dir\Days\Day23\DayTwentyThreePartTwo.cpp.obj -c C:\Users\Dolpix\Desktop\AdventOfCode-2024\Days\Day23\DayTwentyThreePartTwo.cpp
+
+CMakeFiles/untitled.dir/Days/Day23/DayTwentyThreePartTwo.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/untitled.dir/Days/Day23/DayTwentyThreePartTwo.cpp.i"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Dolpix\Desktop\AdventOfCode-2024\Days\Day23\DayTwentyThreePartTwo.cpp > CMakeFiles\untitled.dir\Days\Day23\DayTwentyThreePartTwo.cpp.i
+
+CMakeFiles/untitled.dir/Days/Day23/DayTwentyThreePartTwo.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/Days/Day23/DayTwentyThreePartTwo.cpp.s"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Dolpix\Desktop\AdventOfCode-2024\Days\Day23\DayTwentyThreePartTwo.cpp -o CMakeFiles\untitled.dir\Days\Day23\DayTwentyThreePartTwo.cpp.s
+
+CMakeFiles/untitled.dir/Days/Day24/DayTwentyFourPartOne.cpp.obj: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/Days/Day24/DayTwentyFourPartOne.cpp.obj: C:/Users/Dolpix/Desktop/AdventOfCode-2024/Days/Day24/DayTwentyFourPartOne.cpp
+CMakeFiles/untitled.dir/Days/Day24/DayTwentyFourPartOne.cpp.obj: CMakeFiles/untitled.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\Dolpix\Desktop\AdventOfCode-2024\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_49) "Building CXX object CMakeFiles/untitled.dir/Days/Day24/DayTwentyFourPartOne.cpp.obj"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/untitled.dir/Days/Day24/DayTwentyFourPartOne.cpp.obj -MF CMakeFiles\untitled.dir\Days\Day24\DayTwentyFourPartOne.cpp.obj.d -o CMakeFiles\untitled.dir\Days\Day24\DayTwentyFourPartOne.cpp.obj -c C:\Users\Dolpix\Desktop\AdventOfCode-2024\Days\Day24\DayTwentyFourPartOne.cpp
+
+CMakeFiles/untitled.dir/Days/Day24/DayTwentyFourPartOne.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/untitled.dir/Days/Day24/DayTwentyFourPartOne.cpp.i"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Dolpix\Desktop\AdventOfCode-2024\Days\Day24\DayTwentyFourPartOne.cpp > CMakeFiles\untitled.dir\Days\Day24\DayTwentyFourPartOne.cpp.i
+
+CMakeFiles/untitled.dir/Days/Day24/DayTwentyFourPartOne.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/Days/Day24/DayTwentyFourPartOne.cpp.s"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Dolpix\Desktop\AdventOfCode-2024\Days\Day24\DayTwentyFourPartOne.cpp -o CMakeFiles\untitled.dir\Days\Day24\DayTwentyFourPartOne.cpp.s
+
+CMakeFiles/untitled.dir/Days/Day24/DayTwentyFourPartTwo.cpp.obj: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/Days/Day24/DayTwentyFourPartTwo.cpp.obj: C:/Users/Dolpix/Desktop/AdventOfCode-2024/Days/Day24/DayTwentyFourPartTwo.cpp
+CMakeFiles/untitled.dir/Days/Day24/DayTwentyFourPartTwo.cpp.obj: CMakeFiles/untitled.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\Dolpix\Desktop\AdventOfCode-2024\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_50) "Building CXX object CMakeFiles/untitled.dir/Days/Day24/DayTwentyFourPartTwo.cpp.obj"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/untitled.dir/Days/Day24/DayTwentyFourPartTwo.cpp.obj -MF CMakeFiles\untitled.dir\Days\Day24\DayTwentyFourPartTwo.cpp.obj.d -o CMakeFiles\untitled.dir\Days\Day24\DayTwentyFourPartTwo.cpp.obj -c C:\Users\Dolpix\Desktop\AdventOfCode-2024\Days\Day24\DayTwentyFourPartTwo.cpp
+
+CMakeFiles/untitled.dir/Days/Day24/DayTwentyFourPartTwo.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/untitled.dir/Days/Day24/DayTwentyFourPartTwo.cpp.i"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Dolpix\Desktop\AdventOfCode-2024\Days\Day24\DayTwentyFourPartTwo.cpp > CMakeFiles\untitled.dir\Days\Day24\DayTwentyFourPartTwo.cpp.i
+
+CMakeFiles/untitled.dir/Days/Day24/DayTwentyFourPartTwo.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/Days/Day24/DayTwentyFourPartTwo.cpp.s"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Dolpix\Desktop\AdventOfCode-2024\Days\Day24\DayTwentyFourPartTwo.cpp -o CMakeFiles\untitled.dir\Days\Day24\DayTwentyFourPartTwo.cpp.s
+
+CMakeFiles/untitled.dir/Days/Day25/DayTwentyFivePartOne.cpp.obj: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/Days/Day25/DayTwentyFivePartOne.cpp.obj: C:/Users/Dolpix/Desktop/AdventOfCode-2024/Days/Day25/DayTwentyFivePartOne.cpp
+CMakeFiles/untitled.dir/Days/Day25/DayTwentyFivePartOne.cpp.obj: CMakeFiles/untitled.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\Dolpix\Desktop\AdventOfCode-2024\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_51) "Building CXX object CMakeFiles/untitled.dir/Days/Day25/DayTwentyFivePartOne.cpp.obj"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/untitled.dir/Days/Day25/DayTwentyFivePartOne.cpp.obj -MF CMakeFiles\untitled.dir\Days\Day25\DayTwentyFivePartOne.cpp.obj.d -o CMakeFiles\untitled.dir\Days\Day25\DayTwentyFivePartOne.cpp.obj -c C:\Users\Dolpix\Desktop\AdventOfCode-2024\Days\Day25\DayTwentyFivePartOne.cpp
+
+CMakeFiles/untitled.dir/Days/Day25/DayTwentyFivePartOne.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/untitled.dir/Days/Day25/DayTwentyFivePartOne.cpp.i"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Dolpix\Desktop\AdventOfCode-2024\Days\Day25\DayTwentyFivePartOne.cpp > CMakeFiles\untitled.dir\Days\Day25\DayTwentyFivePartOne.cpp.i
+
+CMakeFiles/untitled.dir/Days/Day25/DayTwentyFivePartOne.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/Days/Day25/DayTwentyFivePartOne.cpp.s"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Dolpix\Desktop\AdventOfCode-2024\Days\Day25\DayTwentyFivePartOne.cpp -o CMakeFiles\untitled.dir\Days\Day25\DayTwentyFivePartOne.cpp.s
+
+CMakeFiles/untitled.dir/Days/Day25/DayTwentyFivePartTwo.cpp.obj: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/Days/Day25/DayTwentyFivePartTwo.cpp.obj: C:/Users/Dolpix/Desktop/AdventOfCode-2024/Days/Day25/DayTwentyFivePartTwo.cpp
+CMakeFiles/untitled.dir/Days/Day25/DayTwentyFivePartTwo.cpp.obj: CMakeFiles/untitled.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\Dolpix\Desktop\AdventOfCode-2024\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_52) "Building CXX object CMakeFiles/untitled.dir/Days/Day25/DayTwentyFivePartTwo.cpp.obj"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/untitled.dir/Days/Day25/DayTwentyFivePartTwo.cpp.obj -MF CMakeFiles\untitled.dir\Days\Day25\DayTwentyFivePartTwo.cpp.obj.d -o CMakeFiles\untitled.dir\Days\Day25\DayTwentyFivePartTwo.cpp.obj -c C:\Users\Dolpix\Desktop\AdventOfCode-2024\Days\Day25\DayTwentyFivePartTwo.cpp
+
+CMakeFiles/untitled.dir/Days/Day25/DayTwentyFivePartTwo.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/untitled.dir/Days/Day25/DayTwentyFivePartTwo.cpp.i"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Dolpix\Desktop\AdventOfCode-2024\Days\Day25\DayTwentyFivePartTwo.cpp > CMakeFiles\untitled.dir\Days\Day25\DayTwentyFivePartTwo.cpp.i
+
+CMakeFiles/untitled.dir/Days/Day25/DayTwentyFivePartTwo.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/Days/Day25/DayTwentyFivePartTwo.cpp.s"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Dolpix\Desktop\AdventOfCode-2024\Days\Day25\DayTwentyFivePartTwo.cpp -o CMakeFiles\untitled.dir\Days\Day25\DayTwentyFivePartTwo.cpp.s
+
 # Object files for target untitled
 untitled_OBJECTS = \
 "CMakeFiles/untitled.dir/main.cpp.obj" \
@@ -279,7 +811,45 @@ untitled_OBJECTS = \
 "CMakeFiles/untitled.dir/Days/Day5/DayFivePartOne.cpp.obj" \
 "CMakeFiles/untitled.dir/Days/Day5/DayFivePartTwo.cpp.obj" \
 "CMakeFiles/untitled.dir/Days/Day6/DaySixPartOne.cpp.obj" \
-"CMakeFiles/untitled.dir/Days/Day6/DaySixPartTwo.cpp.obj"
+"CMakeFiles/untitled.dir/Days/Day6/DaySixPartTwo.cpp.obj" \
+"CMakeFiles/untitled.dir/Days/Day7/DaySevenPartOne.cpp.obj" \
+"CMakeFiles/untitled.dir/Days/Day7/DaySevenPartTwo.cpp.obj" \
+"CMakeFiles/untitled.dir/Days/Day8/DayEightPartOne.cpp.obj" \
+"CMakeFiles/untitled.dir/Days/Day8/DayEightPartTwo.cpp.obj" \
+"CMakeFiles/untitled.dir/Days/Day9/DayNinePartOne.cpp.obj" \
+"CMakeFiles/untitled.dir/Days/Day9/DayNinePartTwo.cpp.obj" \
+"CMakeFiles/untitled.dir/Days/Day10/DayTenPartOne.cpp.obj" \
+"CMakeFiles/untitled.dir/Days/Day10/DayTenPartTwo.cpp.obj" \
+"CMakeFiles/untitled.dir/Days/Day11/DayElevenPartOne.cpp.obj" \
+"CMakeFiles/untitled.dir/Days/Day11/DayElevenPartTwo.cpp.obj" \
+"CMakeFiles/untitled.dir/Days/Day12/DayTwelvePartOne.cpp.obj" \
+"CMakeFiles/untitled.dir/Days/Day12/DayTwelvePartTwo.cpp.obj" \
+"CMakeFiles/untitled.dir/Days/Day13/DayThirteenPartOne.cpp.obj" \
+"CMakeFiles/untitled.dir/Days/Day13/DayThirteenPartTwo.cpp.obj" \
+"CMakeFiles/untitled.dir/Days/Day14/DayFourteenPartOne.cpp.obj" \
+"CMakeFiles/untitled.dir/Days/Day14/DayFourteenPartTwo.cpp.obj" \
+"CMakeFiles/untitled.dir/Days/Day15/DayFifteenPartOne.cpp.obj" \
+"CMakeFiles/untitled.dir/Days/Day15/DayFifteenPartTwo.cpp.obj" \
+"CMakeFiles/untitled.dir/Days/Day16/DaySixteenPartOne.cpp.obj" \
+"CMakeFiles/untitled.dir/Days/Day16/DaySixteenPartTwo.cpp.obj" \
+"CMakeFiles/untitled.dir/Days/Day17/DaySeventeenPartOne.cpp.obj" \
+"CMakeFiles/untitled.dir/Days/Day17/DaySeventeenPartTwo.cpp.obj" \
+"CMakeFiles/untitled.dir/Days/Day18/DayEighteenPartOne.cpp.obj" \
+"CMakeFiles/untitled.dir/Days/Day18/DayEighteenPartTwo.cpp.obj" \
+"CMakeFiles/untitled.dir/Days/Day19/DayNineteenPartOne.cpp.obj" \
+"CMakeFiles/untitled.dir/Days/Day19/DayNineteenPartTwo.cpp.obj" \
+"CMakeFiles/untitled.dir/Days/Day20/DayTwentyPartOne.cpp.obj" \
+"CMakeFiles/untitled.dir/Days/Day20/DayTwentyPartTwo.cpp.obj" \
+"CMakeFiles/untitled.dir/Days/Day21/DayTwentyOnePartOne.cpp.obj" \
+"CMakeFiles/untitled.dir/Days/Day21/DayTwentyOnePartTwo.cpp.obj" \
+"CMakeFiles/untitled.dir/Days/Day22/DayTwentyTwoPartOne.cpp.obj" \
+"CMakeFiles/untitled.dir/Days/Day22/DayTwentyTwoPartTwo.cpp.obj" \
+"CMakeFiles/untitled.dir/Days/Day23/DayTwentyThreePartOne.cpp.obj" \
+"CMakeFiles/untitled.dir/Days/Day23/DayTwentyThreePartTwo.cpp.obj" \
+"CMakeFiles/untitled.dir/Days/Day24/DayTwentyFourPartOne.cpp.obj" \
+"CMakeFiles/untitled.dir/Days/Day24/DayTwentyFourPartTwo.cpp.obj" \
+"CMakeFiles/untitled.dir/Days/Day25/DayTwentyFivePartOne.cpp.obj" \
+"CMakeFiles/untitled.dir/Days/Day25/DayTwentyFivePartTwo.cpp.obj"
 
 # External object files for target untitled
 untitled_EXTERNAL_OBJECTS =
@@ -298,11 +868,49 @@ untitled.exe: CMakeFiles/untitled.dir/Days/Day5/DayFivePartOne.cpp.obj
 untitled.exe: CMakeFiles/untitled.dir/Days/Day5/DayFivePartTwo.cpp.obj
 untitled.exe: CMakeFiles/untitled.dir/Days/Day6/DaySixPartOne.cpp.obj
 untitled.exe: CMakeFiles/untitled.dir/Days/Day6/DaySixPartTwo.cpp.obj
+untitled.exe: CMakeFiles/untitled.dir/Days/Day7/DaySevenPartOne.cpp.obj
+untitled.exe: CMakeFiles/untitled.dir/Days/Day7/DaySevenPartTwo.cpp.obj
+untitled.exe: CMakeFiles/untitled.dir/Days/Day8/DayEightPartOne.cpp.obj
+untitled.exe: CMakeFiles/untitled.dir/Days/Day8/DayEightPartTwo.cpp.obj
+untitled.exe: CMakeFiles/untitled.dir/Days/Day9/DayNinePartOne.cpp.obj
+untitled.exe: CMakeFiles/untitled.dir/Days/Day9/DayNinePartTwo.cpp.obj
+untitled.exe: CMakeFiles/untitled.dir/Days/Day10/DayTenPartOne.cpp.obj
+untitled.exe: CMakeFiles/untitled.dir/Days/Day10/DayTenPartTwo.cpp.obj
+untitled.exe: CMakeFiles/untitled.dir/Days/Day11/DayElevenPartOne.cpp.obj
+untitled.exe: CMakeFiles/untitled.dir/Days/Day11/DayElevenPartTwo.cpp.obj
+untitled.exe: CMakeFiles/untitled.dir/Days/Day12/DayTwelvePartOne.cpp.obj
+untitled.exe: CMakeFiles/untitled.dir/Days/Day12/DayTwelvePartTwo.cpp.obj
+untitled.exe: CMakeFiles/untitled.dir/Days/Day13/DayThirteenPartOne.cpp.obj
+untitled.exe: CMakeFiles/untitled.dir/Days/Day13/DayThirteenPartTwo.cpp.obj
+untitled.exe: CMakeFiles/untitled.dir/Days/Day14/DayFourteenPartOne.cpp.obj
+untitled.exe: CMakeFiles/untitled.dir/Days/Day14/DayFourteenPartTwo.cpp.obj
+untitled.exe: CMakeFiles/untitled.dir/Days/Day15/DayFifteenPartOne.cpp.obj
+untitled.exe: CMakeFiles/untitled.dir/Days/Day15/DayFifteenPartTwo.cpp.obj
+untitled.exe: CMakeFiles/untitled.dir/Days/Day16/DaySixteenPartOne.cpp.obj
+untitled.exe: CMakeFiles/untitled.dir/Days/Day16/DaySixteenPartTwo.cpp.obj
+untitled.exe: CMakeFiles/untitled.dir/Days/Day17/DaySeventeenPartOne.cpp.obj
+untitled.exe: CMakeFiles/untitled.dir/Days/Day17/DaySeventeenPartTwo.cpp.obj
+untitled.exe: CMakeFiles/untitled.dir/Days/Day18/DayEighteenPartOne.cpp.obj
+untitled.exe: CMakeFiles/untitled.dir/Days/Day18/DayEighteenPartTwo.cpp.obj
+untitled.exe: CMakeFiles/untitled.dir/Days/Day19/DayNineteenPartOne.cpp.obj
+untitled.exe: CMakeFiles/untitled.dir/Days/Day19/DayNineteenPartTwo.cpp.obj
+untitled.exe: CMakeFiles/untitled.dir/Days/Day20/DayTwentyPartOne.cpp.obj
+untitled.exe: CMakeFiles/untitled.dir/Days/Day20/DayTwentyPartTwo.cpp.obj
+untitled.exe: CMakeFiles/untitled.dir/Days/Day21/DayTwentyOnePartOne.cpp.obj
+untitled.exe: CMakeFiles/untitled.dir/Days/Day21/DayTwentyOnePartTwo.cpp.obj
+untitled.exe: CMakeFiles/untitled.dir/Days/Day22/DayTwentyTwoPartOne.cpp.obj
+untitled.exe: CMakeFiles/untitled.dir/Days/Day22/DayTwentyTwoPartTwo.cpp.obj
+untitled.exe: CMakeFiles/untitled.dir/Days/Day23/DayTwentyThreePartOne.cpp.obj
+untitled.exe: CMakeFiles/untitled.dir/Days/Day23/DayTwentyThreePartTwo.cpp.obj
+untitled.exe: CMakeFiles/untitled.dir/Days/Day24/DayTwentyFourPartOne.cpp.obj
+untitled.exe: CMakeFiles/untitled.dir/Days/Day24/DayTwentyFourPartTwo.cpp.obj
+untitled.exe: CMakeFiles/untitled.dir/Days/Day25/DayTwentyFivePartOne.cpp.obj
+untitled.exe: CMakeFiles/untitled.dir/Days/Day25/DayTwentyFivePartTwo.cpp.obj
 untitled.exe: CMakeFiles/untitled.dir/build.make
 untitled.exe: CMakeFiles/untitled.dir/linkLibs.rsp
 untitled.exe: CMakeFiles/untitled.dir/objects1.rsp
 untitled.exe: CMakeFiles/untitled.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=C:\Users\Dolpix\Desktop\AdventOfCode-2024\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_15) "Linking CXX executable untitled.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=C:\Users\Dolpix\Desktop\AdventOfCode-2024\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_53) "Linking CXX executable untitled.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\untitled.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
