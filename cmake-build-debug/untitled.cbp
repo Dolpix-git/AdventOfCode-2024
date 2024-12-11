@@ -88,28 +88,40 @@
 		<Unit filename="C:/Users/Dolpix/Desktop/AdventOfCode-2024/Days/Day.h">
 			<Option target="untitled"/>
 		</Unit>
-		<Unit filename="C:/Users/Dolpix/Desktop/AdventOfCode-2024/Days/DayOne/DayOnePartOne.cpp">
+		<Unit filename="C:/Users/Dolpix/Desktop/AdventOfCode-2024/Days/Day1/DayOnePartOne.cpp">
 			<Option target="untitled"/>
 		</Unit>
-		<Unit filename="C:/Users/Dolpix/Desktop/AdventOfCode-2024/Days/DayOne/DayOnePartOne.h">
+		<Unit filename="C:/Users/Dolpix/Desktop/AdventOfCode-2024/Days/Day1/DayOnePartOne.h">
 			<Option target="untitled"/>
 		</Unit>
-		<Unit filename="C:/Users/Dolpix/Desktop/AdventOfCode-2024/Days/DayOne/DayOnePartTwo.cpp">
+		<Unit filename="C:/Users/Dolpix/Desktop/AdventOfCode-2024/Days/Day1/DayOnePartTwo.cpp">
 			<Option target="untitled"/>
 		</Unit>
-		<Unit filename="C:/Users/Dolpix/Desktop/AdventOfCode-2024/Days/DayOne/DayOnePartTwo.h">
+		<Unit filename="C:/Users/Dolpix/Desktop/AdventOfCode-2024/Days/Day1/DayOnePartTwo.h">
 			<Option target="untitled"/>
 		</Unit>
-		<Unit filename="C:/Users/Dolpix/Desktop/AdventOfCode-2024/Days/DayTwo/DayTwoPartOne.cpp">
+		<Unit filename="C:/Users/Dolpix/Desktop/AdventOfCode-2024/Days/Day2/DayTwoPartOne.cpp">
 			<Option target="untitled"/>
 		</Unit>
-		<Unit filename="C:/Users/Dolpix/Desktop/AdventOfCode-2024/Days/DayTwo/DayTwoPartOne.hpp">
+		<Unit filename="C:/Users/Dolpix/Desktop/AdventOfCode-2024/Days/Day2/DayTwoPartOne.hpp">
 			<Option target="untitled"/>
 		</Unit>
-		<Unit filename="C:/Users/Dolpix/Desktop/AdventOfCode-2024/Days/DayTwo/DayTwoPartTwo.cpp">
+		<Unit filename="C:/Users/Dolpix/Desktop/AdventOfCode-2024/Days/Day2/DayTwoPartTwo.cpp">
 			<Option target="untitled"/>
 		</Unit>
-		<Unit filename="C:/Users/Dolpix/Desktop/AdventOfCode-2024/Days/DayTwo/DayTwoPartTwo.hpp">
+		<Unit filename="C:/Users/Dolpix/Desktop/AdventOfCode-2024/Days/Day2/DayTwoPartTwo.hpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/Dolpix/Desktop/AdventOfCode-2024/Days/Day3/DayThreePartOne.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/Dolpix/Desktop/AdventOfCode-2024/Days/Day3/DayThreePartOne.hpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/Dolpix/Desktop/AdventOfCode-2024/Days/Day3/DayThreePartTwo.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/Dolpix/Desktop/AdventOfCode-2024/Days/Day3/DayThreePartTwo.hpp">
 			<Option target="untitled"/>
 		</Unit>
 		<Unit filename="C:/Users/Dolpix/Desktop/AdventOfCode-2024/main.cpp">

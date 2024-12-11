@@ -9,10 +9,12 @@ set(CMAKE_DEPENDS_LANGUAGES
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
   "C:/Users/Dolpix/Desktop/AdventOfCode-2024/Days/Day.cpp" "CMakeFiles/untitled.dir/Days/Day.cpp.obj" "gcc" "CMakeFiles/untitled.dir/Days/Day.cpp.obj.d"
-  "C:/Users/Dolpix/Desktop/AdventOfCode-2024/Days/DayOne/DayOnePartOne.cpp" "CMakeFiles/untitled.dir/Days/DayOne/DayOnePartOne.cpp.obj" "gcc" "CMakeFiles/untitled.dir/Days/DayOne/DayOnePartOne.cpp.obj.d"
-  "C:/Users/Dolpix/Desktop/AdventOfCode-2024/Days/DayOne/DayOnePartTwo.cpp" "CMakeFiles/untitled.dir/Days/DayOne/DayOnePartTwo.cpp.obj" "gcc" "CMakeFiles/untitled.dir/Days/DayOne/DayOnePartTwo.cpp.obj.d"
-  "C:/Users/Dolpix/Desktop/AdventOfCode-2024/Days/DayTwo/DayTwoPartOne.cpp" "CMakeFiles/untitled.dir/Days/DayTwo/DayTwoPartOne.cpp.obj" "gcc" "CMakeFiles/untitled.dir/Days/DayTwo/DayTwoPartOne.cpp.obj.d"
-  "C:/Users/Dolpix/Desktop/AdventOfCode-2024/Days/DayTwo/DayTwoPartTwo.cpp" "CMakeFiles/untitled.dir/Days/DayTwo/DayTwoPartTwo.cpp.obj" "gcc" "CMakeFiles/untitled.dir/Days/DayTwo/DayTwoPartTwo.cpp.obj.d"
+  "C:/Users/Dolpix/Desktop/AdventOfCode-2024/Days/Day1/DayOnePartOne.cpp" "CMakeFiles/untitled.dir/Days/Day1/DayOnePartOne.cpp.obj" "gcc" "CMakeFiles/untitled.dir/Days/Day1/DayOnePartOne.cpp.obj.d"
+  "C:/Users/Dolpix/Desktop/AdventOfCode-2024/Days/Day1/DayOnePartTwo.cpp" "CMakeFiles/untitled.dir/Days/Day1/DayOnePartTwo.cpp.obj" "gcc" "CMakeFiles/untitled.dir/Days/Day1/DayOnePartTwo.cpp.obj.d"
+  "C:/Users/Dolpix/Desktop/AdventOfCode-2024/Days/Day2/DayTwoPartOne.cpp" "CMakeFiles/untitled.dir/Days/Day2/DayTwoPartOne.cpp.obj" "gcc" "CMakeFiles/untitled.dir/Days/Day2/DayTwoPartOne.cpp.obj.d"
+  "C:/Users/Dolpix/Desktop/AdventOfCode-2024/Days/Day2/DayTwoPartTwo.cpp" "CMakeFiles/untitled.dir/Days/Day2/DayTwoPartTwo.cpp.obj" "gcc" "CMakeFiles/untitled.dir/Days/Day2/DayTwoPartTwo.cpp.obj.d"
+  "C:/Users/Dolpix/Desktop/AdventOfCode-2024/Days/Day3/DayThreePartOne.cpp" "CMakeFiles/untitled.dir/Days/Day3/DayThreePartOne.cpp.obj" "gcc" "CMakeFiles/untitled.dir/Days/Day3/DayThreePartOne.cpp.obj.d"
+  "C:/Users/Dolpix/Desktop/AdventOfCode-2024/Days/Day3/DayThreePartTwo.cpp" "CMakeFiles/untitled.dir/Days/Day3/DayThreePartTwo.cpp.obj" "gcc" "CMakeFiles/untitled.dir/Days/Day3/DayThreePartTwo.cpp.obj.d"
   "C:/Users/Dolpix/Desktop/AdventOfCode-2024/main.cpp" "CMakeFiles/untitled.dir/main.cpp.obj" "gcc" "CMakeFiles/untitled.dir/main.cpp.obj.d"
   )
 
