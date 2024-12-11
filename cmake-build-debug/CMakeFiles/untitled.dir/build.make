@@ -208,6 +208,34 @@ CMakeFiles/untitled.dir/Days/Day4/DayFourPartTwo.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/Days/Day4/DayFourPartTwo.cpp.s"
 	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Dolpix\Desktop\AdventOfCode-2024\Days\Day4\DayFourPartTwo.cpp -o CMakeFiles\untitled.dir\Days\Day4\DayFourPartTwo.cpp.s
 
+CMakeFiles/untitled.dir/Days/Day5/DayFivePartOne.cpp.obj: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/Days/Day5/DayFivePartOne.cpp.obj: C:/Users/Dolpix/Desktop/AdventOfCode-2024/Days/Day5/DayFivePartOne.cpp
+CMakeFiles/untitled.dir/Days/Day5/DayFivePartOne.cpp.obj: CMakeFiles/untitled.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\Dolpix\Desktop\AdventOfCode-2024\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Building CXX object CMakeFiles/untitled.dir/Days/Day5/DayFivePartOne.cpp.obj"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/untitled.dir/Days/Day5/DayFivePartOne.cpp.obj -MF CMakeFiles\untitled.dir\Days\Day5\DayFivePartOne.cpp.obj.d -o CMakeFiles\untitled.dir\Days\Day5\DayFivePartOne.cpp.obj -c C:\Users\Dolpix\Desktop\AdventOfCode-2024\Days\Day5\DayFivePartOne.cpp
+
+CMakeFiles/untitled.dir/Days/Day5/DayFivePartOne.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/untitled.dir/Days/Day5/DayFivePartOne.cpp.i"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Dolpix\Desktop\AdventOfCode-2024\Days\Day5\DayFivePartOne.cpp > CMakeFiles\untitled.dir\Days\Day5\DayFivePartOne.cpp.i
+
+CMakeFiles/untitled.dir/Days/Day5/DayFivePartOne.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/Days/Day5/DayFivePartOne.cpp.s"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Dolpix\Desktop\AdventOfCode-2024\Days\Day5\DayFivePartOne.cpp -o CMakeFiles\untitled.dir\Days\Day5\DayFivePartOne.cpp.s
+
+CMakeFiles/untitled.dir/Days/Day5/DayFivePartTwo.cpp.obj: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/Days/Day5/DayFivePartTwo.cpp.obj: C:/Users/Dolpix/Desktop/AdventOfCode-2024/Days/Day5/DayFivePartTwo.cpp
+CMakeFiles/untitled.dir/Days/Day5/DayFivePartTwo.cpp.obj: CMakeFiles/untitled.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\Dolpix\Desktop\AdventOfCode-2024\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Building CXX object CMakeFiles/untitled.dir/Days/Day5/DayFivePartTwo.cpp.obj"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/untitled.dir/Days/Day5/DayFivePartTwo.cpp.obj -MF CMakeFiles\untitled.dir\Days\Day5\DayFivePartTwo.cpp.obj.d -o CMakeFiles\untitled.dir\Days\Day5\DayFivePartTwo.cpp.obj -c C:\Users\Dolpix\Desktop\AdventOfCode-2024\Days\Day5\DayFivePartTwo.cpp
+
+CMakeFiles/untitled.dir/Days/Day5/DayFivePartTwo.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/untitled.dir/Days/Day5/DayFivePartTwo.cpp.i"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Dolpix\Desktop\AdventOfCode-2024\Days\Day5\DayFivePartTwo.cpp > CMakeFiles\untitled.dir\Days\Day5\DayFivePartTwo.cpp.i
+
+CMakeFiles/untitled.dir/Days/Day5/DayFivePartTwo.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/Days/Day5/DayFivePartTwo.cpp.s"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Dolpix\Desktop\AdventOfCode-2024\Days\Day5\DayFivePartTwo.cpp -o CMakeFiles\untitled.dir\Days\Day5\DayFivePartTwo.cpp.s
+
 # Object files for target untitled
 untitled_OBJECTS = \
 "CMakeFiles/untitled.dir/main.cpp.obj" \
@@ -219,7 +247,9 @@ untitled_OBJECTS = \
 "CMakeFiles/untitled.dir/Days/Day3/DayThreePartOne.cpp.obj" \
 "CMakeFiles/untitled.dir/Days/Day3/DayThreePartTwo.cpp.obj" \
 "CMakeFiles/untitled.dir/Days/Day4/DayFourPartOne.cpp.obj" \
-"CMakeFiles/untitled.dir/Days/Day4/DayFourPartTwo.cpp.obj"
+"CMakeFiles/untitled.dir/Days/Day4/DayFourPartTwo.cpp.obj" \
+"CMakeFiles/untitled.dir/Days/Day5/DayFivePartOne.cpp.obj" \
+"CMakeFiles/untitled.dir/Days/Day5/DayFivePartTwo.cpp.obj"
 
 # External object files for target untitled
 untitled_EXTERNAL_OBJECTS =
@@ -234,11 +264,13 @@ untitled.exe: CMakeFiles/untitled.dir/Days/Day3/DayThreePartOne.cpp.obj
 untitled.exe: CMakeFiles/untitled.dir/Days/Day3/DayThreePartTwo.cpp.obj
 untitled.exe: CMakeFiles/untitled.dir/Days/Day4/DayFourPartOne.cpp.obj
 untitled.exe: CMakeFiles/untitled.dir/Days/Day4/DayFourPartTwo.cpp.obj
+untitled.exe: CMakeFiles/untitled.dir/Days/Day5/DayFivePartOne.cpp.obj
+untitled.exe: CMakeFiles/untitled.dir/Days/Day5/DayFivePartTwo.cpp.obj
 untitled.exe: CMakeFiles/untitled.dir/build.make
 untitled.exe: CMakeFiles/untitled.dir/linkLibs.rsp
 untitled.exe: CMakeFiles/untitled.dir/objects1.rsp
 untitled.exe: CMakeFiles/untitled.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=C:\Users\Dolpix\Desktop\AdventOfCode-2024\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Linking CXX executable untitled.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=C:\Users\Dolpix\Desktop\AdventOfCode-2024\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_13) "Linking CXX executable untitled.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\untitled.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
