@@ -19,7 +19,7 @@
 			</Target>
 			<Target title="untitled">
 				<Option output="C:/Users/Dolpix/Desktop/AdventOfCode-2024/cmake-build-debug/untitled.exe" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="C:/Users/Dolpix/Desktop/AdventOfCode-2024/cmake-build-debug"/>
+				<Option working_dir="C:/Users/Dolpix/Desktop/AdventOfCode-2024"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -41,7 +41,7 @@
 			</Target>
 			<Target title="untitled/fast">
 				<Option output="C:/Users/Dolpix/Desktop/AdventOfCode-2024/cmake-build-debug/untitled.exe" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="C:/Users/Dolpix/Desktop/AdventOfCode-2024/cmake-build-debug"/>
+				<Option working_dir="C:/Users/Dolpix/Desktop/AdventOfCode-2024"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
