@@ -74,8 +74,8 @@ void DaySixPartOne::Execute()
 	}
 	auto end = std::chrono::high_resolution_clock::now();
 	auto duration = std::chrono::duration_cast<std::chrono::milliseconds>(end - start);
-
 	std::cout << "Execution time: " << duration.count() << " ms" << std::endl;
+
 	std::cout << "Total iterations " << iterations << std::endl;
 	std::cout << "Total distinct positions " << distinctPositions << std::endl;
 	std::cout << std::endl;
